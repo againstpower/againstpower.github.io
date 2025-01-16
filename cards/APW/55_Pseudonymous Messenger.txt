@@ -1,0 +1,1 @@
+﻿Pseudonymous Messenger	B	common	Creature – Human Rogue 	55	B	B	Whenever Pseudonymous Messenger becomes tapped, each opponent loses 1 life and you gain 1 life.NEWLINE1B: Pseudonymous Messenger gains deathtouch until end of turn.	1/1		normal	APW		

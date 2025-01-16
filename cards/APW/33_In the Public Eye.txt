@@ -1,0 +1,1 @@
+﻿In the Public Eye	U	common	Enchantment – Aura 	33	U	3U	Enchant creatureNEWLINEWhen In the Public Eye enters, draw a card. Then choose Innocuous or Intimidating.NEWLINE• Innocuous – Enchanted creature is a 1/1 Citizen and has defender.NEWLINE• Intimidating – Enchanted creature is a 3/3 Horror and has flying.			normal	APW		

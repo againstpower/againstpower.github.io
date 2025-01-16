@@ -1,0 +1,1 @@
+﻿Insigni, Pursuit of Fame	UR	mythic	Legendary Creature – Incarnation 	113	UR	1UR	Whenever you cast a spell that targets only Insigni, create two Treasure tokens. If that spell has mana value 5 or greater, also draw two cards.	4/3		normal	APW		

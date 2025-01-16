@@ -1,0 +1,1 @@
+﻿Paint the Streets Defiant	W	common	Battle – Mission 	13	W	2W	(As a Mission enters, choose an opponent to protect it.)NEWLINEWhen Paint the Streets Defiant enters or is defeated, create two 1/1 Rebel creature tokens that are all colors.			normal	APW	2	

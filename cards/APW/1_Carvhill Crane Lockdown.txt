@@ -1,0 +1,1 @@
+﻿Carvhill Crane Lockdown	W	common	Battle – Barricade 	1	W	1W	(You protect a barricade.)NEWLINEWhen Carvhill Crane Lockdown enters, exile another target nonland permanent until Carvhill Crane Lockdown leaves the battlefield.			normal	APW	4	

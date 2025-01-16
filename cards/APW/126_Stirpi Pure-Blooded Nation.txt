@@ -1,0 +1,1 @@
+﻿Stirpi, Pure-Blooded Nation	WR	mythic	Legendary Creature – Incarnation 	126	WR	1RW	First strike, hasteNEWLINE3: Exile another creature you control. When you do, exile target creature you don’t control. Activate only once.	3/3		normal	APW		

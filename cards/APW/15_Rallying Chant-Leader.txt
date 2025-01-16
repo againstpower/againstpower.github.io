@@ -1,0 +1,1 @@
+﻿Rallying Chant-Leader	W	common	Creature – Human Rebel 	15	W	1W	The second time a creature you control enters each turn, put a +1/+1 counter on this creature and you gain 1 life.NEWLINERouse 4W (You may cast a copy of this card from your graveyard for 4W plus exiling this card. Copies enter as tokens.)	2/2		normal	APW		

@@ -1,0 +1,1 @@
+﻿Capture on Camera	B	common	Battle – Mission 	47	B	1B	(As a Mission enters the battlefield, choose an opponent to protect it.)NEWLINEWhen Capture on Camera enters or is defeated, each opponent sacrifices a creature.			normal	APW	6	

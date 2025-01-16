@@ -1,0 +1,1 @@
+﻿Conflict Circle Facilitator	W	uncommon	Creature – Human Advisor 	2	W	W	FlashNEWLINEWhen Conflict Circle Facilitator enters, skillshare. (Another target creature you control gains the following ability until end of turn.)NEWLINE2: Return this creature to its owner’s hand.	1/2		normal	APW		

@@ -1,0 +1,1 @@
+﻿Caluma Easement Trailblazer	R	common	Creature – Human Rebel Scout 	64	R	2R	When Caluma Easement Trailblazer enters, you may exile a basic land card you own from outside the game or the top card of your library. Until the end of your next turn, you may play the exiled card.	3/1		normal	APW		

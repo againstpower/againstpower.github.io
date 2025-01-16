@@ -1,0 +1,1 @@
+﻿Pump-Station Vandal	G	common	Creature – Human  Warrior 	94	G	1G	VigilanceNEWLINEWhen Pump-Station Vandal attacks, if you control a battle, it gets +2/+0 and gains trample until end of turn.	1/3		normal	APW		

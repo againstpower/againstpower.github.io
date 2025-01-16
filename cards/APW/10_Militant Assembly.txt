@@ -1,0 +1,1 @@
+﻿Militant Assembly	W	common	Creature – Human 	10	W	1W	When Militant Assembly attacks, if you control six or more nonland permanents, it gain first strike until end of turn.NEWLINEWWWW: Put two +1/+1 counters on Militant Assembly and tap up to two target creatures. Activate only once.	3/1		normal	APW		

@@ -1,0 +1,1 @@
+﻿DIY Shield Crew	W	common	Creature – Human Artificer Rebel 	3	W	W	When DIY Shield Crew enters, create a colorless equipment artifact token named Painted Shield with “Equipped creature gets +1/+2” and Equip 3.	1/2		normal	APW		

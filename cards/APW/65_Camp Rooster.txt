@@ -1,0 +1,1 @@
+﻿Camp Rooster	R	common	Creature – Bird 	65	R	R	Whenever Camp Rooster attacks, you may discard a card. If you do, draw a card.NEWLINE1: Camp Rooster gains flying until end of turn.	1/2		normal	APW		

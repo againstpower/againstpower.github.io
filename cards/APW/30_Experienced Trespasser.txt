@@ -1,0 +1,1 @@
+﻿Experienced Trespasser	U	common	Creature – Human Rogue 	30	U	2U	As long as it isn’t your turn, spells you cast cost 1 less to cast.NEWLINEExperienced Trespasser can’t be blocked unless defending player pays 2.	3/2		normal	APW		

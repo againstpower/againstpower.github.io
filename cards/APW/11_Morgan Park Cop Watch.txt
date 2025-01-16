@@ -1,0 +1,1 @@
+﻿Morgan Park Cop Watch	W	common	Creature – Human Scout 	11	W	3W	At the beginning of combat on your turn, if you control a battle, skillshare. (Another target creature you control gains the following ability until end of turn.)NEWLINEVigilance	3/4		normal	APW		flavor text: dont forget to use salute! clarity makes ......something

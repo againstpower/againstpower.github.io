@@ -1,0 +1,1 @@
+﻿Steadfast Assembly	G	common	Creature – Human Rebel 	99	G	2G	Creatures you control with +1/+1 counters on them have trample.NEWLINEGGGG: Put three +1/+1 counters on Steadfast Assembly. Activate only once.	3/3		normal	APW		

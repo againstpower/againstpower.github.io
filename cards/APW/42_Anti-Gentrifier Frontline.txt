@@ -1,0 +1,1 @@
+﻿Anti-Gentrifier Frontline	B	common	Creature – Human Rebel Warrior 	42	B	2B	Whenever you discard a card, skillshare. (Another target creature you control gains the following ability until end of turn.)NEWLINEMenace	3/2		normal	APW		

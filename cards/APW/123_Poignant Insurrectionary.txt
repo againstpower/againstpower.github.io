@@ -1,0 +1,1 @@
+﻿Poignant Insurrectionary	BR	uncommon	Creature – Human Rebel 	123	BR	BR	When Poignant Insurrectionary enters, discard a card.NEWLINEWhenever you discard one or more cards, exile them. You may play those cards during any turn that an opponent lost life.	3/2		normal	APW		

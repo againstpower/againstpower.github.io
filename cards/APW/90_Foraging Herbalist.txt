@@ -1,0 +1,1 @@
+﻿Foraging Herbalist	G	common	Creature – Human Druid 	90	G	2G	FlashNEWLINEForaging Herbalist enters tapped. When it does, skillshare. (Another target creature you control gains the following ability until end of turn.)NEWLINEDeathtouch	3/2		normal	APW		

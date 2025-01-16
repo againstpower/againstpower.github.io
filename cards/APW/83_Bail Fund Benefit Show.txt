@@ -1,0 +1,1 @@
+﻿Bail Fund Benefit Show	G	uncommon	Enchantment	83	WUBRG	G	2G: Create a 1/1 Rebel creature token that is all colors. Put a ticket counter on Bail Fund Benefit Show. Mill a card.NEWLINERemove four ticket counters from Bail Fund Benefit Show and sacrifice it: You may cast up to two creature cards from your graveyard this turn.			normal	APW		

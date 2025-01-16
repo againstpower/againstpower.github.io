@@ -1,0 +1,1 @@
+﻿Vastitas, Extraction of the Earth	RG	mythic	Legendary Creature – Incarnation 	128	RG	3RG	Trample, hasteNEWLINEWhen Vastitas enters, if you cast it, destroy all lands. Each player creates eight tapped Treasure tokens. (They’re artifacts with “T, Sacrifice this: Add one mana of any color.”)	4/5		normal	APW		

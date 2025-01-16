@@ -1,0 +1,1 @@
+﻿Threat Modeling	W	common	Sorcery	19	W	W	Cloak the top card of your library, then return a creature you control to its owner’s hand unless you pay 1. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward 2. Turn it face up any time for its mana cost if it’s a creature card.)			normal	APW		

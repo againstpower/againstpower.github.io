@@ -1,0 +1,1 @@
+﻿Moonlit Planting	UG	uncommon	Instant	117	UG	GU	Create a token that’s a copy of target permanent you control with mana value 3 or less.			normal	APW		

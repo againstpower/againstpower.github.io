@@ -1,0 +1,1 @@
+﻿Machina, Isolation by Design	UB	mythic	Legendary Creature – Incarnation 	116	UB	3UB	FlyingNEWLINEWhenever a creature deals damage to you, put a chrome counter on it. It becomes an artifact. (It isn’t a creature.)	5/4		normal	APW		

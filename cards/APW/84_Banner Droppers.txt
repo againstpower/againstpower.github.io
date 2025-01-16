@@ -1,0 +1,1 @@
+﻿Banner Droppers	G	common	Creature – Human Warrior 	84	WUBRG	4G	ReachNEWLINEOnce each turn, when a card leaves your graveyard, create a tapped 1/1 Rebel creature token that is all colors.	5/4		normal	APW		

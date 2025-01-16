@@ -1,0 +1,1 @@
+﻿Improvised Roadblock	W	common	Artifact Creature – Wall 	5	W	1W	DefenderNEWLINEWhenever you attack, if you control two or more other artifacts, attacking creatures get +1/+1 until end of turn.	0/4		normal	APW		

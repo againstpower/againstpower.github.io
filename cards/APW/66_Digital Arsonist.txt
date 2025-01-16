@@ -1,0 +1,1 @@
+﻿Digital Arsonist	R	common	Creature – Human Rebel 	66	R	1R	Once each turn, when you cast an instant or sorcery spell, skillshare. (Another target creature you control gains the following ability until end of turn.)NEWLINEWhenever this creature attacks, it deals 2 damage to defending player.	1/2		normal	APW		

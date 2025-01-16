@@ -1,0 +1,1 @@
+﻿Aerial Videographer	U	common	Creature – Human Scout 	23	U	3U	When Aerial Videographer enters, create a 1/1 colorless Drone artifact creature token with flying.NEWLINEWhenever an artifact you control enters, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)	2/4		normal	APW		

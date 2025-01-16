@@ -1,0 +1,1 @@
+﻿The Torching of Carvhill Prison	R	common	Battle – Mission 	78	R	2R	(As a Mission enters, choose an opponent to protect it.)NEWLINEWhen this battle enters or is defeated, it deals 3 damage to target player and 1 damage to up to one target creature they control.			normal	APW	2	

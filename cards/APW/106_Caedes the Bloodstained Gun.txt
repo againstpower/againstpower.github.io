@@ -1,0 +1,1 @@
+﻿Caedes, the Bloodstained Gun	BR	mythic	Legendary Creature – Incarnation 	106	BR	2BR	Whenever another creature dies, put a +1/+1 counter on Caedes.NEWLINE1BR, Remove a +1/+1 counter from Caedes: It deals 3 damage to any target.	4/3		normal	APW		

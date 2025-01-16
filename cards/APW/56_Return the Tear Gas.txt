@@ -1,0 +1,1 @@
+﻿Return the Tear Gas	B	common	Sorcery	56	B	1B	Target creature gets -3/-3 until end of turn. You may discard a card. When you do, each opponent discards a card.			normal	APW		picture of someone kicking tear gas cannister

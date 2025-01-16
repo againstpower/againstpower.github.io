@@ -1,0 +1,1 @@
+﻿Overgrown Backroad		common	Land	142	G		Overgrown Backroad enters tapped unless you control a basic land.NEWLINET: Add G.NEWLINEG, Discard Overgrown Backroad: Target creature gets +0/+2 until end of turn.			normal	APW		

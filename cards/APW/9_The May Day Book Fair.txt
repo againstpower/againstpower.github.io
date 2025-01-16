@@ -1,0 +1,1 @@
+﻿The May Day Book Fair	W	uncommon	Enchantment	9	WUBRG	1W	When The May Day Book Fair enters, create a colorless artifact token named Zine Collection with “2, T, Discard a card: Draw a card.”NEWLINEOnce each turn, when you create an artifact token, create a 1/1 Rebel creature token that is all colors.			normal	APW		

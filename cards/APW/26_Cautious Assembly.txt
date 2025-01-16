@@ -1,0 +1,1 @@
+﻿Cautious Assembly	U	common	Creature – Human Advisor 	26	U	1U	When Cautious Assembly enters, draw a card, then discard a card.NEWLINEUUUU: If Cautious Assembly has no counters on it, put two +1/+1 counters and a vigilance counter on it.	1/3		normal	APW		

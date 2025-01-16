@@ -1,0 +1,1 @@
+﻿Great Sequoia Skycamp	G	uncommon	Battle – Barricade 	91	G	1G	(You protect a barricade.)NEWLINEOnce each turn, when a land enters under your control, put two +1/+1 counters on target creature.			normal	APW	2	

@@ -1,0 +1,1 @@
+﻿Evade the Authorities	W	common	Instant	4	W	1W	Put a +1/+1 counter and a flying counter on target creature. Prevent all damage that would be dealt to it this turn.			normal	APW		

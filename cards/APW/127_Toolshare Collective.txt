@@ -1,0 +1,1 @@
+﻿Toolshare Collective	WU	uncommon	Creature – Human  Artificer Rebel 	127	WU	1WU	Toolshare Collective enters with a +1/+1 counter and a lifelink counter on it if you control an artifact.NEWLINEIf you would create one or more artifact tokens, create an additional one of those tokens.	1/3		normal	APW		

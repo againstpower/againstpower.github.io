@@ -1,0 +1,1 @@
+﻿Dumpster Dive	B	uncommon	Instant	50	B	1B	You mill a card, draw a card, and lose 1 life. You may vouch. If you do, return this spell to its owner’s hand. (To vouch, tap an untapped creature you control or pay 2.)			normal	APW		

@@ -1,0 +1,1 @@
+﻿Arms-Linked Obstinates	B	common	Creature – Human Warrior 	43	B	3B	Vouch: This creature gets +1/+1 until end of turn. (To vouch, tap another untapped creature you control or pay 2.)NEWLINERouse 4B (You may cast a copy of this card from your graveyard for 4B plus exiling this card. Copies enter as tokens.)	3/2		normal	APW		

@@ -1,0 +1,1 @@
+﻿Legal Defense Counsel	B	uncommon	Creature – Human Advisor 	52	B	1B	Whenever a creature you control attacks alone, skillshare. (Another target creature you control gains the following ability until end of turn.)NEWLINEDiscard a card: This creature gains indestructible until end of turn. Tap it.	2/1		normal	APW		

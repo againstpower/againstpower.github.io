@@ -1,0 +1,1 @@
+﻿Against Power	R	mythic	Sorcery	61	R	RR	Against Power deals 2 damage to each player with the most life. Repeat this process for each player with the most cards in hand, each player who controls the most creatures, and each player who controls the most lands.			normal	APW		

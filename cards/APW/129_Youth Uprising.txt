@@ -1,0 +1,1 @@
+﻿Youth Uprising	WR	uncommon	Enchantment	129	WR	XRW	When Youth Uprising enters, create X 1/1 Rebel creature tokens that are all colors. They gain haste until end of turn.NEWLINECreatures you control that entered this turn have indestructible.			normal	APW		

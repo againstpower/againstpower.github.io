@@ -1,0 +1,1 @@
+﻿Crescero, Myth of Utopia	UG	mythic	Legendary Creature – Incarnation 	108	UG	1GU	FlyingNEWLINEIf Crescero would deal combat damage to a player or permanent, that player or that permanent’s controller may prevent that damage. When they do, you draw a card.	5/6		normal	APW		

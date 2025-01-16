@@ -1,0 +1,1 @@
+﻿Strategic Debrief	G	uncommon	Instant	100	G	2G	When you cast this spell, copy it for each battle you controlled that was defeated this turn.NEWLINEDistribute two +1/+1 counters among creatures you control. Draw a card.			normal	APW		

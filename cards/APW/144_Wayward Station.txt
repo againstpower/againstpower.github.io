@@ -1,0 +1,1 @@
+﻿Wayward Station		uncommon	Land	144	C		Wayward Station enters tapped. When it does, draw a card. Then sacrifice a land unless you discard a card.NEWLINET: Add one mana of any color a land you control could produce.			normal	APW		

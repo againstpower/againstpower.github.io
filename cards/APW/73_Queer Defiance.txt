@@ -1,0 +1,1 @@
+﻿Queer Defiance	R	uncommon	Enchantment	73	R	1R	The second time a creature you control enters each turn, Queer Defiance deals 3 damage to each opponent.			normal	APW		

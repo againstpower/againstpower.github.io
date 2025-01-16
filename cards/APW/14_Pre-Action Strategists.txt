@@ -1,0 +1,1 @@
+﻿Pre-Action Strategists	W	common	Creature – Human Advisor Warrior 	14	W	4W	When this creature enters, you may search your library for a battle card, reveal it, put it into your hand, then shuffle.NEWLINE5: Creatures you control get +1/+1 until end of turn.	3/2		normal	APW		

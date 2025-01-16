@@ -1,0 +1,1 @@
+﻿Sabotage Trio	BR	uncommon	Creature – Human Rogue 	125	BR	1BR	Whenever this creature attacks, you may discard a card. If you do, defending player loses 3 life.NEWLINERouse 2BR  (You may cast a copy of this card from your graveyard for 2BR plus exiling this card. Copies enter as tokens.)	2/3		normal	APW		

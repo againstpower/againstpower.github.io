@@ -1,0 +1,1 @@
+﻿Decentralized Offensive	G	common	Instant	89	G	1G	Choose target creature you control. If creatures you control attacked two or more players and/or battles this turn, put a +1/+1 counter on the chosen creature. Then it deals damage equal to its power to another target creature.			normal	APW		

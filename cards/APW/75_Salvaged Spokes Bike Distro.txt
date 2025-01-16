@@ -1,0 +1,1 @@
+﻿Salvaged Spokes Bike Distro	R	common	Creature – Human Artificer 	75	R	1R	The second time a creature you control enters each turn, skillshare. (Another target creature you control gains the following abilities until end of turn.)NEWLINEFirst strike, haste	1/3		normal	APW		
