@@ -1,0 +1,1 @@
+﻿Converge on the Convention	R	uncommon	Sorcery	79	WUBRG	2R	Create X 1/1 Rebel creature tokens that are all colors, where X is the number of colors of mana spent to cast this spell. They gain haste until end of turn.NEWLINERouse WUBRG  (You may cast a copy of this card from your graveyard for WUBRG plus exiling this card.)			normal	APW		

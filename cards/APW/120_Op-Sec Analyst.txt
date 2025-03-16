@@ -1,1 +1,0 @@
-﻿Op-Sec Analyst	UB	uncommon	Creature – Human Rogue Advisor 	120	UB	UB	Whenever a creature you control becomes tapped, if it isn’t attacking, put a discretion counter on it. The next time it attacks, remove all discretion counters from it and it can’t be blocked this turn.	2/3		normal	APW		

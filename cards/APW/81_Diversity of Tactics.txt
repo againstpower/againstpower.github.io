@@ -1,0 +1,1 @@
+﻿Diversity of Tactics	R	common	Sorcery	81	WUBRG	1R	Diversity of Tactics deals X damage to any target, where X is the number of colors of mana spent to cast this spell.NEWLINERouse WUBRG (You may cast a copy of this card from your graveyard for WUBRG plus exiling this card.)			normal	APW		

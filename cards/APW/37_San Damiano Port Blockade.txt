@@ -1,1 +1,0 @@
-﻿San Damiano Port Blockade	U	uncommon	Battle – Barricade 	37	U	1U	(You protect a barricade.)NEWLINEAt the start of combat on each turn, if you cast a spell this turn, you may tap target creature.			normal	APW	4	

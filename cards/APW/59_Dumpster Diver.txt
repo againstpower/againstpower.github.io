@@ -1,0 +1,1 @@
+﻿Dumpster Diver	B	uncommon	Creature – Human Scout 	59	B	1B	Dumpster Diver can’t be blocked unless defending player pays 2.NEWLINEWhenever you discard a card, you may pay 1 life and exile it from your graveyard. If you do, you may cast that card this turn.	2/1		normal	APW		

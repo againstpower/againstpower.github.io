@@ -1,0 +1,1 @@
+﻿Cedere, Self-Hating Complicity	BG	mythic	Legendary Creature – Incarnation 	127	BG	2BG	Vigilance, deathtouchNEWLINEWhen Cedere dies, return it to the battlefield. You lose 3 life.	3/3		normal	APW		

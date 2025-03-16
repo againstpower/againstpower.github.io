@@ -1,0 +1,1 @@
+﻿Camo Bloc Fencebreakers	G	uncommon	Creature – Human Warrior 	101	G	3GG	As an additional cost to cast this spell, vouch twice. (To vouch, tap an untapped creature you control or pay 2.)NEWLINETrample, ward 2NEWLINEWhenever this creature deals combat damage to a battle, it deals that much damage to defending player.	7/6		normal	APW		

@@ -1,0 +1,1 @@
+﻿Crumbling Alley		common	Land	160	B		Crumbling Alley enters tapped unless you control a basic land.NEWLINET: Add B.NEWLINEB, Discard Crumbling Alley: Exile target card from a graveyard. Each opponent loses 1 life.			normal	APW		

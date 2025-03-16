@@ -1,1 +1,0 @@
-﻿Morgan Park Autonomous Zone	R	uncommon	Battle – Barricade 	70	R	1R	(You protect a barricade.)NEWLINEAt the beginning of your end step, you may discard a card. If you do, draw a card.			normal	APW	3	

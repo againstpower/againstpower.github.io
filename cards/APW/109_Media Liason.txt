@@ -1,0 +1,1 @@
+﻿Media Liason	G	uncommon	Creature – Human Rebel 	109	G	G	When Media Liason enters, skillshare. (Another target creature you control gains the following ability until end of turn.)NEWLINEWhen this creature attacks, you may untap target creature defending player controls. It blocks this creature this combat if able.	0/3		normal	APW		

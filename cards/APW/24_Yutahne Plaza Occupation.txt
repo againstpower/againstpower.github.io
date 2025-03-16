@@ -1,0 +1,1 @@
+﻿Yutahne Plaza Occupation	W	uncommon	Battle – Barricade 	24	W	1W	(You protect a Barricade.)NEWLINECreatures you control get +1/+1. If you control six or more nonland permanents, creatures you control have vigilance.			normal	APW	3	

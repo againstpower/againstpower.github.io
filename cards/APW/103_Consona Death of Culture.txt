@@ -1,0 +1,1 @@
+﻿Consona, Death of Culture	G	mythic	Legendary Creature – Incarnation 	103	G	4GG	TrampleNEWLINEWhenever you attack, you may destroy target noncreature permanent defending player controls. If you do, that player creates a 2/2 green Citizen creature token.	6/7		normal	APW		

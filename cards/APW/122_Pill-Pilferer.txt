@@ -1,1 +1,0 @@
-﻿Pill-Pilferer	BG	uncommon	Creature – Human Rogue 	122	BG	BG	When this creature enters, you may vouch. When you do, return target card from your graveyard to your hand. (To vouch, tap another untapped creature you control or pay 2.)	2/1		normal	APW		

@@ -1,1 +1,0 @@
-﻿Heavy U-Lock		uncommon	Artifact – Equipment 	133	C	1	Equipped creature gets +2/+1.NEWLINESacrifice Heavy U-Lock: Equipped creature can block any number of creatures this turn.NEWLINEEquip–Pay 3 or discard a card.			normal	APW		

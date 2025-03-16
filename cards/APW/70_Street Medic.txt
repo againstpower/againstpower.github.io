@@ -1,0 +1,1 @@
+﻿Street Medic	B	common	Creature – Human Rebel 	70	B	1B	Once each turn, when a card leaves your graveyard, skillshare. (Another target creature gains the following ability until end of turn.)NEWLINELifelink	2/2		normal	APW		

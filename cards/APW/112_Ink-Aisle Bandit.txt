@@ -1,1 +1,0 @@
-﻿Ink-Aisle Bandit	UR	uncommon	Creature – Human Rogue 	112	UR	1UR	T: Skillshare. (Another target creature you control gains the following abilities until end of turn.)NEWLINEHasteNEWLINEWhenever this creature deals damage to an opponent or battle, draw a card. Then discard a card unless you cast an instant or sorcery spell this turn.	2/3		normal	APW		

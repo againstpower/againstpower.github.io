@@ -1,1 +1,0 @@
-﻿Scouting Bike		common	Artifact – Vehicle 	135	C	1	When Scouting Bike enters, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.NEWLINE3, Discard a land card: Scouting Bike becomes a creature until end of turn.	3/2		normal	APW		

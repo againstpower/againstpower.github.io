@@ -1,1 +1,0 @@
-﻿An Oasis For Migrants	WU	uncommon	Sorcery	119	WU	WU	Put a +1/+1 counter on each creature you control. Create a colorless artifact token named Water Barrel with “3, T, Sacrifice this artifact: Draw two cards”.			normal	APW		

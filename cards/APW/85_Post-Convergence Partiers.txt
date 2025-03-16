@@ -1,0 +1,1 @@
+﻿Post-Convergence Partiers	R	common	Creature – Human Rebel 	85	R	3R	When this creature enters, choose one –NEWLINE• Destroy target artifact.NEWLINE• Create two 1/1 Rebel creature tokens that are all colors. They gain haste until end of turn. Exile the tokens at the beginning of the next end step.	4/3		normal	APW		add orgies to flavor text

@@ -1,1 +1,0 @@
-﻿Roaring Interstate		common	Land	143	R		Roaring Interstate enters tapped unless you control a basic land.NEWLINET: Add R.NEWLINER, Discard Roaring Interstate: Target creature gets +2/+0 until end of turn.			normal	APW		

@@ -1,0 +1,1 @@
+﻿Annoto, Alienated Spectator	U	mythic	Legendary Creature – Incarnation 	28	U	1UU	If you would draw a card, look at the top four cards of your library instead. Put one into your hand and exile the rest.NEWLINEAnnoto can’t attack or block unless there are ten or fewer cards in your library.	8/8		normal	APW		

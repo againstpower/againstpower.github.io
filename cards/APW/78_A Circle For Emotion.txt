@@ -1,0 +1,1 @@
+﻿A Circle For Emotion	R	uncommon	Enchantment	78	R	1R	When this enchantment enters, target creature gains trample and haste until end of turn.NEWLINEEach creature you control gets +2/+1 if it has been the target of a spell or ability you control this turn.			normal	APW		

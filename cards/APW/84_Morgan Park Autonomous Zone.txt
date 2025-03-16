@@ -1,0 +1,1 @@
+﻿Morgan Park Autonomous Zone	R	uncommon	Battle – Barricade 	84	R	1R	(You protect a Barricade.)NEWLINEDiscard a card: Draw a card. Activate only as a sorcery and only once each turn.			normal	APW	3	

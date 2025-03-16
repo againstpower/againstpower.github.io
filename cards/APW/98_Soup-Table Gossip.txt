@@ -1,1 +1,0 @@
-﻿Soup-Table Gossip	G	common	Creature – Human Advisor 	98	G	1G	Soup-Table Gossip enters with two +1/+1 counters on it if you didn’t cast it from your hand.NEWLINERouse 3G (You may cast a copy of this card from your graveyard for 3G plus exiling this card. Copies enter as tokens.)	2/1		normal	APW		

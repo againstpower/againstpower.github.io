@@ -1,0 +1,1 @@
+﻿Prepare for the Quake	R	uncommon	Enchantment – Aura 	86	R	4R	Enchant creatureNEWLINEEnchanted creature gets +1/+1 and has haste and “T: Target creature gets +1/+1 and gains haste until end of turn.”NEWLINEWhen Prepare for the Quake enters, at the beginning of the next end step, it deals 2 damage to each creature.			normal	APW		

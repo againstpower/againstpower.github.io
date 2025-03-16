@@ -1,0 +1,1 @@
+﻿On-Call Jail Support	B	uncommon	Creature – Human Advisor 	65	B	3B	HasteNEWLINERouse 6B (You may cast a copy of this card from your graveyard for 6B plus exiling this card. Copies enter as tokens.)NEWLINEThis card costs 4 less to rouse if another card left your graveyard this turn.	4/2		normal	APW		

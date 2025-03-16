@@ -1,0 +1,1 @@
+﻿Wildfire Midwife	R	uncommon	Creature – Human Druid 	96	WUBRG	2R	1R, Return another creature you control to its owner’s hand: Create a 1/1 Rebel creature token that is all colors.	3/2		normal	APW		

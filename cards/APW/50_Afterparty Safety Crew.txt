@@ -1,0 +1,1 @@
+﻿Afterparty Safety Crew	B	uncommon	Creature – Human Warrior 	50	B	3BB	Vouch four times: Target creature gets -4/-4 until end of turn. Put a +1/+1 counter on this creature. Activate only as a sorcery and only once. (To vouch, tap another untapped creature you control or pay 2.)	3/4		normal	APW		

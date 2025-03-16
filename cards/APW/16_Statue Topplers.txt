@@ -1,1 +1,0 @@
-﻿Statue Topplers	W	common	Creature – Human Rebel 	16	W	2W	Whenever Statue Topplers attacks, you may tap target creature.NEWLINE3WW, Discard Statue Topplers: Exile target artifact, enchantment, or creature. Activate only as a sorcery.	2/3		normal	APW		

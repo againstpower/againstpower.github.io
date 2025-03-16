@@ -1,1 +1,0 @@
-﻿Z-Rox Zine Machine		uncommon	Artifact	136	C	1	When Z-Rox Zine Machine enters, draw a card.NEWLINESacrifice Z-Rox Zine Machine: The next time a creature you control becomes the target of a skillshare ability this turn, copy that ability for each other creature it could target. Each copy targets a different one of those creatures.			normal	APW		

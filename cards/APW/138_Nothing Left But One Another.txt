@@ -1,0 +1,1 @@
+﻿Nothing Left But One Another	WB	uncommon	Enchantment	138	WB	WB	Once each turn when a face-down creature you control dies, you may return it to your hand. You may return it to the battlefield face-up instead if it is a permanent card and you control another face-down creature.			normal	APW		

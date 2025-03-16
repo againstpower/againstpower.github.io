@@ -1,0 +1,1 @@
+﻿Adler Street Tenants Union	U	uncommon	Creature – Human 	25	U	3U	Whenever Adler Street Tenants Union attacks, it gets +X/+0 until end of turn, where X is the number of creatures you control.NEWLINEWhenever Adler Street Tenants Union becomes tapped, if it isn’t attacking, draw a card.	0/5		normal	APW		

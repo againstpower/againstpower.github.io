@@ -1,1 +1,0 @@
-﻿Unvetted Punks	R	common	Creature – Human Rebel 	80	R	R	HasteNEWLINEWhen Unvetted Punks enters, return it to its owner’s hand at the beginning of the next end step unless you vouch before that step. (To vouch, tap another untapped creature you control or pay 2.)	2/2		normal	APW		

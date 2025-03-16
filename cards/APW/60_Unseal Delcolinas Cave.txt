@@ -1,1 +1,0 @@
-﻿Unseal Delcolinas Cave	B	common	Sorcery	60	B	1B	Return up to one target creature or land card from your graveyard to your hand. Create a 1/1 black Bat creature token with flying and lifelink.			normal	APW		

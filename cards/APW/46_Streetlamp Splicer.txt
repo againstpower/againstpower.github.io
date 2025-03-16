@@ -1,0 +1,1 @@
+﻿Streetlamp Splicer	U	common	Creature – Human Artificer 	46	U	2U	Whenever you draw your second card each turn, put a +1/+1 counter on Streetlamp Splicer.NEWLINERouse 3U (You may cast a copy of this card from your graveyard for 3U plus exiling this card. Copies enter as tokens.)	2/3		normal	APW		

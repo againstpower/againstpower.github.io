@@ -1,0 +1,1 @@
+﻿Bitter Assembly	B	common	Creature – Human 	54	B	1B	Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.NEWLINEBBBB: Put two +1/+1 counters on Bitter Assembly. Draw a card. Each player loses 2 life. Activate only once.	1/2		normal	APW		

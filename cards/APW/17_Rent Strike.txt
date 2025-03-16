@@ -1,0 +1,1 @@
+﻿Rent Strike	W	uncommon	Instant	17	W	W	Return target spell to its owner’s hand. You may vouch twice. If you do, draw a card. (To vouch, tap an untapped creature you control or pay 2.)			normal	APW		

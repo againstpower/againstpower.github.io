@@ -1,0 +1,1 @@
+﻿Resilient Care Team	BG	uncommon	Creature – Human Rebel 	144	BG	1BG	Whenever one or more cards leave your graveyard, put a +1/+1 counter on target creature you control.NEWLINERouse 1BG (You may cast a copy of this card from your graveyard for 1BG plus exiling this card. Copies enter as tokens.)	2/3		normal	APW		

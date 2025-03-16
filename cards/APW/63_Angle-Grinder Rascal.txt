@@ -1,1 +1,0 @@
-﻿Angle-Grinder Rascal	R	common	Creature – Human Artificer Rogue 	63	R	3R	1R, Discard Angle-Grinder Rascal: Skillshare. (Another target creature you control gains the following abilities until end of turn.)NEWLINEDouble strike	2/3		normal	APW		

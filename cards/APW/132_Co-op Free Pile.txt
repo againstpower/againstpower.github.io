@@ -1,1 +1,0 @@
-﻿Co-op Free Pile		uncommon	Artifact	132	C	0	Whenever Co-op Free Pile or another artifact you control enters, put a +1/+1 counter on Co-op Free Pile.NEWLINE1, T: Move a +1/+1 counter from Co-op Free Pile onto target creature. Activate only as a sorcery.			normal	APW		

@@ -1,0 +1,1 @@
+﻿Foreclosed Townhouse		common	Land	162	C		T: Add C. If there’s a squatters counter on Foreclosed Townhouse, add one mana of any color instead.NEWLINE1, Vouch: Put a squatters counter on Foreclosed Townhouse. (To vouch, tap an untapped creature you control or pay 2.)			normal	APW		

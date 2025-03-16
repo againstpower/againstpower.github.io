@@ -1,0 +1,1 @@
+﻿Bail-Fund Signatory	B	common	Creature – Human  Advisor 	53	B	2B	When Bail-Fund Signatory enters, you may vouch twice. If you do, return target creature card with mana value 2 or less from your graveyard to the battlefield. (To vouch, tap another untapped creature you control or pay 2.)	3/3		normal	APW		

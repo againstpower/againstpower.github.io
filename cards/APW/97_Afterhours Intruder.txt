@@ -1,0 +1,1 @@
+﻿Afterhours Intruder	G	common	Creature – Human Rogue 	97	G	G	Whenever you cast a spell during an opponent’s turn, if Afterhours Intruder has 2 or less power, put a +1/+1 counter on it.	1/2		normal	APW		

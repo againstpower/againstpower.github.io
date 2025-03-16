@@ -1,1 +1,0 @@
-﻿Patriar, Chains of the Family	WG	mythic	Legendary Creature – Incarnation 	121	WG	4GW	When Patriar enters, create three 0/1 white Human creature tokens.NEWLINETap an untapped creature token you control: Tap target creature.NEWLINESacrifice a creature token: Patriar gains indestructible until end of turn.	6/6		normal	APW		

@@ -1,0 +1,1 @@
+﻿Zine-Table Firebrand	WR	uncommon	Creature – Human Rebel 	150	WR	1RW	First strikeNEWLINEThe second time a creature you control enters each turn, creatures you control get +2/+0 and gain vigilance until end of turn.	2/3		normal	APW	3	

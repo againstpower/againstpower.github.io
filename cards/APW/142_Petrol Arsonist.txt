@@ -1,0 +1,1 @@
+﻿Petrol Arsonist	BR	uncommon	Creature – Human Warrior 	142	BR	BR	When this creature enters, you may discard a card.NEWLINEWhenever you discard one or more cards, this creature deals 2 damage to any target.	1/1		normal	APW		

@@ -1,0 +1,1 @@
+﻿Squatters' Rebuke	R	common	Instant	90	R	2R	Squatters’ Rebuke deals 4 damage to target creature.NEWLINEThis card has rouse 1R if you discarded it this turn. (You may cast a copy of it for 1R plus exiling it from your graveyard.)			normal	APW		

@@ -1,1 +1,0 @@
-﻿Break Pavement For Gardens	G	uncommon	Enchantment	85	WUBRG	1G	When this enchantment enters, you may destroy target artifact or enchantment.NEWLINEWUBRG, Sacrifice this enchantment: Return all land cards and up to one target creature card from your graveyard to the battlefield tapped. You gain 5 life.			normal	APW		

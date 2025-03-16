@@ -1,0 +1,1 @@
+﻿Shrouding Fog	U	uncommon	Creature – Wall 	45	U	2U	Defender, flyingNEWLINE2U: Target creature you control can’t be blocked this turn.	4/4		normal	APW		

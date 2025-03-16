@@ -1,1 +1,0 @@
-﻿Freight-Line Vagabond	U	common	Creature – Human Rogue 	31	U	U	Once each turn, when you cast an instant or sorcery spell, skillshare. (Another target creature you control gains the following ability until end of turn.)NEWLINEThis creature can’t be blocked.	1/1		normal	APW		

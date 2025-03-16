@@ -1,0 +1,1 @@
+﻿Morgan Park Eviction Defense	G	uncommon	Creature – Human Warrior 	110	G	3G	FlashNEWLINEWhen this creature enters, put a +1/+1 counter on another target creature.NEWLINE2, Remove a +1/+1 counter from a creature you control: Draw a card.	3/3		normal	APW		

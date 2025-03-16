@@ -1,1 +1,0 @@
-﻿New Years Noise Demo	G	common	Instant	92	G	2G	Choose one –NEWLINE• Target creature gets +3/+3 and gains trample until end of turn.NEWLINE• Destroy target artifact or enchantment.			normal	APW		

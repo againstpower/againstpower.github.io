@@ -1,1 +1,0 @@
-﻿Risk Level Red	R	uncommon	Instant	74	R	1R	Target creature gets +2/+0 and gains first strike and haste until end of turn. You may vouch twice. If you do, untap that creature and gain control of it until end of turn. It can’t block this turn. (To vouch, tap another untapped creature you control or pay 2.)			normal	APW		

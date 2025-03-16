@@ -1,0 +1,1 @@
+﻿Augustine Border Medicine Run	G	common	Battle – Mission 	98	G	2G	(As a Mission enter, choose an opponent to protect it.)NEWLINEWhen Augustine Border Medicine Run enters or is defeated, return up to one target creature card from your graveyard to your hand. You gain 3 life.			normal	APW	3	

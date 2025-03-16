@@ -1,1 +1,0 @@
-﻿Bustling Avenue		common	Land	138	WUBRG		Bustling Avenue enters tapped unless you control a basic land.NEWLINET: Add W.NEWLINE1W, Discard Bustling Avenue: Create a 1/1 Rebel creature token that is all colors.			normal	APW		

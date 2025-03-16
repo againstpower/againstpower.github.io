@@ -1,0 +1,1 @@
+﻿Adroganta, the Self Above All	B	mythic	Legendary Creature – Incarnation 	49	B	4BB	FlyingNEWLINEWhen Adroganta enters, if you cast it, you may have target player’s life total become 1. If you do, they get an emblem with “Sacrifice a permanent: You gain 2 life.”	6/4		normal	APW		

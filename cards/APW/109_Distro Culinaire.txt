@@ -1,1 +1,0 @@
-﻿Distro Culinaire	RG	uncommon	Creature – Human Rebel 	109	WUBRG	RG	When Distro Culinaire enters, put a +1/+1 counter on target creature you control.NEWLINEWUBRG: Distro Culinaire deals 3 damage to each opponent and you gain 3 life.	1/2		normal	APW		

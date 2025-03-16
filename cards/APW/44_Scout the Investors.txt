@@ -1,0 +1,1 @@
+﻿Scout the Investors	U	common	Battle – Mission 	44	U	1U	(As a Mission enters, choose an opponent to protect it.)NEWLINEWhen Scout the Investors enters or is defeated, surveil 2, then draw a card.			normal	APW	3	

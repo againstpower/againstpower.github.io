@@ -1,0 +1,1 @@
+﻿Agitative Assembly	R	common	Creature – Human Rebel 	74	R	2R	Once each turn, when Agitative Assembly becomes the target of a spell or ability you control, it deals 2 damage to each opponent.NEWLINERRRR: Put two +1/+1 counters and a menace counter on Agitative Assembly. Activate only once.	3/2		normal	APW		

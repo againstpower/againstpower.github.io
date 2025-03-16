@@ -1,1 +1,0 @@
-﻿Ashes of the Precinct		common	Land	137	C		T, Sacrifice Ashes of the Precinct: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle.NEWLINE1, Exile Ashes of the Precinct from your graveyard: Add one mana of any color.			normal	APW		

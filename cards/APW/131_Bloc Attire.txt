@@ -1,1 +1,0 @@
-﻿Bloc Attire		common	Artifact – Equipment 	131	C	1	When Bloc Attire enters, if it isn’t a token, create a token that is a copy of it.NEWLINENo more than one creature with an equipment named Bloc Attire attached to it can be blocked each combat.NEWLINEEquip 1			normal	APW		

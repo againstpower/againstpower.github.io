@@ -1,0 +1,1 @@
+﻿Rusted Hatchback		uncommon	Artifact – Vehicle 	155	C	3	Creature spells you cast cost 1 less to cast.NEWLINECrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	4/4		normal	APW		

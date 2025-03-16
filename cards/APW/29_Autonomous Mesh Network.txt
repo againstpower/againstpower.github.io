@@ -1,0 +1,1 @@
+﻿Autonomous Mesh Network	U	uncommon	Enchantment	29	U	2U	Whenever you draw your second card each turn, draw a card. Until end of turn, spells you cast cost 1 less to cast.			normal	APW		

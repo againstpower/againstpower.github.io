@@ -1,1 +1,0 @@
-﻿Rooftop Gardener	G	common	Creature – Human Druid 	96	WUBRG	G	ReachNEWLINEWUBRG: Put two +1/+1 counters on Rooftop Gardener and create a 2/2 green Goat creature token. Activate only as a sorcery and only once.	1/2		normal	APW		art  looks funny looks like from video game

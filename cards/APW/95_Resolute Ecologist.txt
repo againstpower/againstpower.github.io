@@ -1,1 +1,0 @@
-﻿Resolute Ecologist	G	uncommon	Creature – Human Ranger 	95	WUBRG	2G	WUBRG: Skillshare. Activate only as a sorcery. (Another target creature you control gains the following ability until end of turn.)NEWLINEThis creature gets +1/+1 for each differently named land you control.	0/0		normal	APW		

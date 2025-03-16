@@ -1,0 +1,1 @@
+﻿Advocate of the Jailed	U	common	Creature – Human Warrior 	26	U	U	DefenderNEWLINEWhenever Advocate of the Jailed becomes tapped, put a +1/+1 counter on it.NEWLINE5U: This turn, creatures you control can attack as though they didn’t have defender.	2/2		normal	APW		

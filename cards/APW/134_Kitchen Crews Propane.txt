@@ -1,1 +1,0 @@
-﻿Kitchen Crew's Propane		common	Artifact	134	C	1	1, T: Add one mana of any color.NEWLINE4, T, Sacrifice Kitchen Crew’s Propane: It deals 3 damage to target creature. Activate only as a sorcery.			normal	APW		flavor text \: when its empty throw it at the cops

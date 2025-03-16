@@ -1,1 +1,0 @@
-﻿Caluma Marsh Encampment	B	uncommon	Battle – Barricade 	46	B	B	(You protect a barricade.)NEWLINEWhenever a creature you control attacks alone, it gets +1/+1 and gains menace and deathtouch until end of turn.			normal	APW	2	

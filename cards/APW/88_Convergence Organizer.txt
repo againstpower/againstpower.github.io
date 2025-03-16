@@ -1,1 +1,0 @@
-﻿Convergence Organizer	G	common	Creature – Human Scout 	88	G	1G	When this creature enters, you may vouch. If you do, create a tapped colorless land token named Trustworthy Venue with “T: Add one mana of any color.” (To vouch, tap another untapped creature you control or pay 2.)	2/2		normal	APW		

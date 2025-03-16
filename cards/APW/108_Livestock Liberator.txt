@@ -1,0 +1,1 @@
+﻿Livestock Liberator	G	uncommon	Creature – Human Rogue 	108	G	2G	TrampleNEWLINEWhenever you cast a spell, create a 2/2 green Goat creature token. Exile it at the beginning of your next end step.	4/2		normal	APW		

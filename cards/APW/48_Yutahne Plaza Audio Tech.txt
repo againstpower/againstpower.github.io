@@ -1,0 +1,1 @@
+﻿Yutahne Plaza Audio Tech	U	uncommon	Creature – Human Artificer  	48	U	2U	FlashNEWLINEThis creature can’t be blocked.NEWLINEWhen this creature enters, you may vouch twice. If you do, tap all creatures your opponents control. (To vouch, tap another untapped creature you control or pay 2.)	2/1		normal	APW		

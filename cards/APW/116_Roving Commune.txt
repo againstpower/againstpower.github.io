@@ -1,0 +1,1 @@
+﻿Roving Commune	G	common	Creature – Human Ranger 	116	G	3G	When this creature enters, you may vouch. If you do, you gain 2 life. (To vouch, tap another untapped creature you control or pay 2.)NEWLINERouse 5GG (You may cast a copy of this card from your graveyard for 5GG plus exiling this card. Copies enter as tokens.)	4/4		normal	APW		change name nomadic war machine

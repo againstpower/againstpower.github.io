@@ -1,1 +1,0 @@
-﻿Covert Pill-Presser	B	uncommon	Creature – Human Rogue 	48	B	B	Whenever a face-down creature enters under your control, put a +1/+1, first strike, haste, deathtouch, lifelink, or menace counter on that permanent.	1/1		normal	APW		

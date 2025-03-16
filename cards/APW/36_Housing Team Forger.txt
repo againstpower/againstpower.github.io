@@ -1,0 +1,1 @@
+﻿Housing Team Forger	U	common	Creature – Human  Artificer 	36	U	1U	When this creature enters, choose one –NEWLINE• Create a colorless artifact token named Lockpick with “T, Sacrifice this token: The next spell you cast this turn can be cast as though it had flash.”NEWLINE• Create a token that is a copy of an artifact token you control.	2/1		normal	APW		

@@ -1,1 +1,0 @@
-﻿Flooded Underpass		common	Land	140	U		Flooded Underpass enters tapped unless you control a basic land.NEWLINET: Add U.NEWLINEU, Discard Flooded Underpass: Tap or untap target creature. Surveil 1.			normal	APW		

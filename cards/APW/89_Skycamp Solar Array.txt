@@ -1,0 +1,1 @@
+﻿Skycamp Solar Array	R	uncommon	Artifact Creature – Wall 	89	R	2R	Defender, reachNEWLINET: Add one mana of any color. You can’t spend this mana to cast a permanent spell.NEWLINEWhenever you cast an instant or sorcery spell, this creature deals 1 damage to each opponent.	0/4		normal	APW		

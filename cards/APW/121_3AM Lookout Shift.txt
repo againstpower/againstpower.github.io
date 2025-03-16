@@ -1,0 +1,1 @@
+﻿3AM Lookout Shift	UG	uncommon	Creature – Human Rebel Scout 	121	UG	1GU	Untap up to two permanents you control during each other player’s untap step.NEWLINEWhenever you cast a spell during an opponent’s turn, surveil 2.	2/3		normal	APW		

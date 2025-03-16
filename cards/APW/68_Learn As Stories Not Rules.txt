@@ -1,1 +1,0 @@
-﻿Learn As Stories, Not Rules	R	uncommon	Sorcery	68	R	1R	Target instant, sorcery, or artifact card in your graveyard gains rouse until end of turn. Its rouse cost is equal to its mana cost.NEWLINERouse 3R (You may cast a copy of this card from your graveyard for 3R plus exiling this card.)			normal	APW		

@@ -1,0 +1,1 @@
+﻿Morgan Park Water Bloc	U	uncommon	Creature – Human Rebel 	40	U	U	When this creature enters, if you control an artifact, create a colorless artifact token named Water Barrel with “3, T, Sacrifice this artifact: Draw two cards”.	1/1		normal	APW		

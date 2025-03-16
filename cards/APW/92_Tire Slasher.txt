@@ -1,0 +1,1 @@
+﻿Tire Slasher	R	uncommon	Creature – Human Rogue 	92	R	R	Whenever you discard a card, put a +1/+1 counter on this creature and it gains first strike until end of turn.NEWLINER, Discard Tire Slasher: Tire Slasher deals 1 damage to any target.	1/1		normal	APW		
