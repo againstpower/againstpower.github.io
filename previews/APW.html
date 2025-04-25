@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/APW-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>APW visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/APW-files/logo.png" />
+	<img class="preload-hidden" src="/sets/APW-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="APW"><img src="/sets/APW-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/APW-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\APW-files\img\9_Lex, Doctrine of One Truth.png" id="9_Lex, Doctrine of One Truth" data-flag="@X" onclick="openSidebar('9_Lex, Doctrine of One Truth',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\31_Annoto, Alienated Spectator.png" id="31_Annoto, Alienated Spectator" data-flag="@X" onclick="openSidebar('31_Annoto, Alienated Spectator',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\55_Adroganta, the Self Above All.png" id="55_Adroganta, the Self Above All" data-flag="@X" onclick="openSidebar('55_Adroganta, the Self Above All',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\82_Against Power.png" id="82_Against Power" data-flag="@X" onclick="openSidebar('82_Against Power',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\116_Consona, Death of Culture.png" id="116_Consona, Death of Culture" data-flag="@X" onclick="openSidebar('116_Consona, Death of Culture',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\2_Childcare Collective.png" id="2_Childcare Collective" data-flag="@X" onclick="openSidebar('2_Childcare Collective',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\38_Freeing the Yutahne River.png" id="38_Freeing the Yutahne River" data-flag="@X" onclick="openSidebar('38_Freeing the Yutahne River',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\76_Squatter's Row Plumber.png" id="76_Squatters Row Plumber" data-flag="@X" onclick="openSidebar('76_Squatters Row Plumber',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\92_The Liberation of Kent Hall.png" id="92_The Liberation of Kent Hall" data-flag="@X" onclick="openSidebar('92_The Liberation of Kent Hall',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\111_Bail Fund Benefit Show.png" id="111_Bail Fund Benefit Show" data-flag="@X" onclick="openSidebar('111_Bail Fund Benefit Show',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\16_Propaganda of the Deed.png" id="16_Propaganda of the Deed" data-flag="@X" onclick="openSidebar('16_Propaganda of the Deed',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\45_Open-Source Archivist.png" id="45_Open-Source Archivist" data-flag="@X" onclick="openSidebar('45_Open-Source Archivist',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\78_Under Cover of Darkness.png" id="78_Under Cover of Darkness" data-flag="@X" onclick="openSidebar('78_Under Cover of Darkness',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\94_Make Riotous Merry.png" id="94_Make Riotous Merry" data-flag="@X" onclick="openSidebar('94_Make Riotous Merry',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\124_Morning Meeting.png" id="124_Morning Meeting" data-flag="@X" onclick="openSidebar('124_Morning Meeting',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\21_Risk-Wary Attendee.png" id="21_Risk-Wary Attendee" data-flag="@X" onclick="openSidebar('21_Risk-Wary Attendee',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\53_Water Filtration Duo.png" id="53_Water Filtration Duo" data-flag="@X" onclick="openSidebar('53_Water Filtration Duo',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\81_Yutahne Plaza Info Shop.png" id="81_Yutahne Plaza Info Shop" data-flag="@X" onclick="openSidebar('81_Yutahne Plaza Info Shop',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\100_Shooting Range Mentor.png" id="100_Shooting Range Mentor" data-flag="@X" onclick="openSidebar('100_Shooting Range Mentor',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\131_Scramble the Surveyors.png" id="131_Scramble the Surveyors" data-flag="@X" onclick="openSidebar('131_Scramble the Surveyors',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\3_Conflict Circle Facilitator.png" id="3_Conflict Circle Facilitator" data-flag="@X" onclick="openSidebar('3_Conflict Circle Facilitator',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\28_Adler Street Tenants Union.png" id="28_Adler Street Tenants Union" data-flag="@X" onclick="openSidebar('28_Adler Street Tenants Union',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\56_Afterparty Safety Crew.png" id="56_Afterparty Safety Crew" data-flag="@X" onclick="openSidebar('56_Afterparty Safety Crew',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\87_A Circle For Emotion.png" id="87_A Circle For Emotion" data-flag="@X" onclick="openSidebar('87_A Circle For Emotion',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\113_Break Pavement For Gardens.png" id="113_Break Pavement For Gardens" data-flag="@X" onclick="openSidebar('113_Break Pavement For Gardens',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\8_Intertwined Struggles.png" id="8_Intertwined Struggles" data-flag="@X" onclick="openSidebar('8_Intertwined Struggles',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\32_Autonomous Mesh Network.png" id="32_Autonomous Mesh Network" data-flag="@X" onclick="openSidebar('32_Autonomous Mesh Network',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\61_Caluma Marsh Encampment.png" id="61_Caluma Marsh Encampment" data-flag="@X" onclick="openSidebar('61_Caluma Marsh Encampment',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\88_Converge on the Convention.png" id="88_Converge on the Convention" data-flag="@X" onclick="openSidebar('88_Converge on the Convention',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\114_Camo Bloc Fencebreakers.png" id="114_Camo Bloc Fencebreakers" data-flag="@X" onclick="openSidebar('114_Camo Bloc Fencebreakers',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\10_The May Day Book Fair.png" id="10_The May Day Book Fair" data-flag="@X" onclick="openSidebar('10_The May Day Book Fair',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\36_Disappearing Messages.png" id="36_Disappearing Messages" data-flag="@X" onclick="openSidebar('36_Disappearing Messages',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\63_Covert Pill-Presser.png" id="63_Covert Pill-Presser" data-flag="@X" onclick="openSidebar('63_Covert Pill-Presser',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\91_Hardware Acquisitionist.png" id="91_Hardware Acquisitionist" data-flag="@X" onclick="openSidebar('91_Hardware Acquisitionist',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\120_Great Sequoia Skycamp.png" id="120_Great Sequoia Skycamp" data-flag="@X" onclick="openSidebar('120_Great Sequoia Skycamp',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\13_Nourish the Neighborhood.png" id="13_Nourish the Neighborhood" data-flag="@X" onclick="openSidebar('13_Nourish the Neighborhood',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\41_Imagine a Better World.png" id="41_Imagine a Better World" data-flag="@X" onclick="openSidebar('41_Imagine a Better World',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\65_Dumpster Diver.png" id="65_Dumpster Diver" data-flag="@X" onclick="openSidebar('65_Dumpster Diver',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\95_Morgan Park Autonomous Zone.png" id="95_Morgan Park Autonomous Zone" data-flag="@X" onclick="openSidebar('95_Morgan Park Autonomous Zone',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\121_Livestock Liberator.png" id="121_Livestock Liberator" data-flag="@X" onclick="openSidebar('121_Livestock Liberator',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\17_Punk House Martial Artist.png" id="17_Punk House Martial Artist" data-flag="@X" onclick="openSidebar('17_Punk House Martial Artist',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\44_Morgan Park Water Bloc.png" id="44_Morgan Park Water Bloc" data-flag="@X" onclick="openSidebar('44_Morgan Park Water Bloc',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\67_Info-Shop Cat.png" id="67_Info-Shop Cat" data-flag="@X" onclick="openSidebar('67_Info-Shop Cat',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\97_Prepare for the Quake.png" id="97_Prepare for the Quake" data-flag="@X" onclick="openSidebar('97_Prepare for the Quake',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\122_Media Liason.png" id="122_Media Liason" data-flag="@X" onclick="openSidebar('122_Media Liason',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\19_Rent Strike.png" id="19_Rent Strike" data-flag="@X" onclick="openSidebar('19_Rent Strike',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\47_Rising Tide Arts Collective.png" id="47_Rising Tide Arts Collective" data-flag="@X" onclick="openSidebar('47_Rising Tide Arts Collective',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\68_Legal Defense Counsel.png" id="68_Legal Defense Counsel" data-flag="@X" onclick="openSidebar('68_Legal Defense Counsel',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\98_Queer Defiance.png" id="98_Queer Defiance" data-flag="@X" onclick="openSidebar('98_Queer Defiance',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\123_Morgan Park Eviction Defense.png" id="123_Morgan Park Eviction Defense" data-flag="@X" onclick="openSidebar('123_Morgan Park Eviction Defense',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\20_Riot Dog.png" id="20_Riot Dog" data-flag="@X" onclick="openSidebar('20_Riot Dog',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\48_San Tavio Port Blockade.png" id="48_San Tavio Port Blockade" data-flag="@X" onclick="openSidebar('48_San Tavio Port Blockade',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\70_Old Friends, New Names.png" id="70_Old Friends, New Names" data-flag="@X" onclick="openSidebar('70_Old Friends, New Names',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\101_Skycamp Solar Array.png" id="101_Skycamp Solar Array" data-flag="@X" onclick="openSidebar('101_Skycamp Solar Array',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\128_Resolute Ecologist.png" id="128_Resolute Ecologist" data-flag="@X" onclick="openSidebar('128_Resolute Ecologist',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\26_Vanish Into The Crowd.png" id="26_Vanish Into The Crowd" data-flag="@X" onclick="openSidebar('26_Vanish Into The Crowd',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\50_Shrouding Fog.png" id="50_Shrouding Fog" data-flag="@X" onclick="openSidebar('50_Shrouding Fog',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\71_On-Call Jail Support.png" id="71_On-Call Jail Support" data-flag="@X" onclick="openSidebar('71_On-Call Jail Support',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\104_Tire Slasher.png" id="104_Tire Slasher" data-flag="@X" onclick="openSidebar('104_Tire Slasher',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\132_Soil Remediation Chemist.png" id="132_Soil Remediation Chemist" data-flag="@X" onclick="openSidebar('132_Soil Remediation Chemist',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\27_Yutahne Plaza Occupation.png" id="27_Yutahne Plaza Occupation" data-flag="@X" onclick="openSidebar('27_Yutahne Plaza Occupation',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\54_Yutahne Plaza Audio Tech.png" id="54_Yutahne Plaza Audio Tech" data-flag="@X" onclick="openSidebar('54_Yutahne Plaza Audio Tech',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\72_Poet of Mourning.png" id="72_Poet of Mourning" data-flag="@X" onclick="openSidebar('72_Poet of Mourning',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\108_Wildfire Midwife.png" id="108_Wildfire Midwife" data-flag="@X" onclick="openSidebar('108_Wildfire Midwife',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\135_Strategic Debrief.png" id="135_Strategic Debrief" data-flag="@X" onclick="openSidebar('135_Strategic Debrief',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\1_Carvhill Crane Lockdown.png" id="1_Carvhill Crane Lockdown" data-flag="@X" onclick="openSidebar('1_Carvhill Crane Lockdown',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\29_Advocate of the Jailed.png" id="29_Advocate of the Jailed" data-flag="@X" onclick="openSidebar('29_Advocate of the Jailed',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\57_Anti-Gentrifier Frontline.png" id="57_Anti-Gentrifier Frontline" data-flag="@X" onclick="openSidebar('57_Anti-Gentrifier Frontline',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\83_Agitative Assembly.png" id="83_Agitative Assembly" data-flag="@X" onclick="openSidebar('83_Agitative Assembly',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\109_Afterhours Intruder.png" id="109_Afterhours Intruder" data-flag="@X" onclick="openSidebar('109_Afterhours Intruder',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\4_DIY Shield Crew.png" id="4_DIY Shield Crew" data-flag="@X" onclick="openSidebar('4_DIY Shield Crew',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\30_Aerial Videographer.png" id="30_Aerial Videographer" data-flag="@X" onclick="openSidebar('30_Aerial Videographer',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\58_Arms-Linked Obstinates.png" id="58_Arms-Linked Obstinates" data-flag="@X" onclick="openSidebar('58_Arms-Linked Obstinates',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\84_Angle-Grinder Rascal.png" id="84_Angle-Grinder Rascal" data-flag="@X" onclick="openSidebar('84_Angle-Grinder Rascal',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\110_Augustine Border Medicine Run.png" id="110_Augustine Border Medicine Run" data-flag="@X" onclick="openSidebar('110_Augustine Border Medicine Run',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\5_Evade the Authorities.png" id="5_Evade the Authorities" data-flag="@X" onclick="openSidebar('5_Evade the Authorities',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\33_Cautious Assembly.png" id="33_Cautious Assembly" data-flag="@X" onclick="openSidebar('33_Cautious Assembly',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\59_Bail-Fund Signatory.png" id="59_Bail-Fund Signatory" data-flag="@X" onclick="openSidebar('59_Bail-Fund Signatory',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\85_Caluma Easement Trailblazer.png" id="85_Caluma Easement Trailblazer" data-flag="@X" onclick="openSidebar('85_Caluma Easement Trailblazer',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\112_Banner Droppers.png" id="112_Banner Droppers" data-flag="@X" onclick="openSidebar('112_Banner Droppers',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\6_Improvised Roadblock.png" id="6_Improvised Roadblock" data-flag="@X" onclick="openSidebar('6_Improvised Roadblock',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\34_Come to Consensus.png" id="34_Come to Consensus" data-flag="@X" onclick="openSidebar('34_Come to Consensus',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\60_Bitter Assembly.png" id="60_Bitter Assembly" data-flag="@X" onclick="openSidebar('60_Bitter Assembly',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\86_Camp Rooster.png" id="86_Camp Rooster" data-flag="@X" onclick="openSidebar('86_Camp Rooster',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\115_Climbing the Sequoias.png" id="115_Climbing the Sequoias" data-flag="@X" onclick="openSidebar('115_Climbing the Sequoias',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\7_Interrupt Arrest.png" id="7_Interrupt Arrest" data-flag="@X" onclick="openSidebar('7_Interrupt Arrest',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\35_Database Breachers.png" id="35_Database Breachers" data-flag="@X" onclick="openSidebar('35_Database Breachers',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\62_Capture on Camera.png" id="62_Capture on Camera" data-flag="@X" onclick="openSidebar('62_Capture on Camera',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\89_Digital Arsonist.png" id="89_Digital Arsonist" data-flag="@X" onclick="openSidebar('89_Digital Arsonist',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\117_Convergence Organizer.png" id="117_Convergence Organizer" data-flag="@X" onclick="openSidebar('117_Convergence Organizer',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\11_Militant Assembly.png" id="11_Militant Assembly" data-flag="@X" onclick="openSidebar('11_Militant Assembly',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\37_Experienced Trespasser.png" id="37_Experienced Trespasser" data-flag="@X" onclick="openSidebar('37_Experienced Trespasser',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\64_Delegitimize.png" id="64_Delegitimize" data-flag="@X" onclick="openSidebar('64_Delegitimize',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\90_Diversity of Tactics.png" id="90_Diversity of Tactics" data-flag="@X" onclick="openSidebar('90_Diversity of Tactics',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\118_Decentralized Offensive.png" id="118_Decentralized Offensive" data-flag="@X" onclick="openSidebar('118_Decentralized Offensive',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\12_Morgan Park Cop Watch.png" id="12_Morgan Park Cop Watch" data-flag="@X" onclick="openSidebar('12_Morgan Park Cop Watch',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\39_Freight-Line Vagabond.png" id="39_Freight-Line Vagabond" data-flag="@X" onclick="openSidebar('39_Freight-Line Vagabond',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\66_Escape Unidentified.png" id="66_Escape Unidentified" data-flag="@X" onclick="openSidebar('66_Escape Unidentified',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\93_Live Life To The Fullest.png" id="93_Live Life To The Fullest" data-flag="@X" onclick="openSidebar('93_Live Life To The Fullest',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\119_Foraging Herbalist.png" id="119_Foraging Herbalist" data-flag="@X" onclick="openSidebar('119_Foraging Herbalist',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\14_Paint the Streets Defiant.png" id="14_Paint the Streets Defiant" data-flag="@X" onclick="openSidebar('14_Paint the Streets Defiant',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\40_Housing Team Forger.png" id="40_Housing Team Forger" data-flag="@X" onclick="openSidebar('40_Housing Team Forger',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\69_Lockdown Legal Support.png" id="69_Lockdown Legal Support" data-flag="@X" onclick="openSidebar('69_Lockdown Legal Support',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\96_Post-Convergence Partiers.png" id="96_Post-Convergence Partiers" data-flag="@X" onclick="openSidebar('96_Post-Convergence Partiers',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\125_New Years Noise Demo.png" id="125_New Years Noise Demo" data-flag="@X" onclick="openSidebar('125_New Years Noise Demo',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\15_Pre-Action Strategists.png" id="15_Pre-Action Strategists" data-flag="@X" onclick="openSidebar('15_Pre-Action Strategists',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\42_In the Public Eye.png" id="42_In the Public Eye" data-flag="@X" onclick="openSidebar('42_In the Public Eye',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\73_Pseudonymous Messenger.png" id="73_Pseudonymous Messenger" data-flag="@X" onclick="openSidebar('73_Pseudonymous Messenger',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\99_Salvaged Spokes Bike Distro.png" id="99_Salvaged Spokes Bike Distro" data-flag="@X" onclick="openSidebar('99_Salvaged Spokes Bike Distro',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\126_Postcards and Commissary.png" id="126_Postcards and Commissary" data-flag="@X" onclick="openSidebar('126_Postcards and Commissary',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\18_Rallying Chant-Leader.png" id="18_Rallying Chant-Leader" data-flag="@X" onclick="openSidebar('18_Rallying Chant-Leader',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\43_Kickflip.png" id="43_Kickflip" data-flag="@X" onclick="openSidebar('43_Kickflip',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\74_Return the Tear Gas.png" id="74_Return the Tear Gas" data-flag="@X" onclick="openSidebar('74_Return the Tear Gas',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\102_Squatters' Rebuke.png" id="102_Squatters Rebuke" data-flag="@X" onclick="openSidebar('102_Squatters Rebuke',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\127_Pump-Station Vandal.png" id="127_Pump-Station Vandal" data-flag="@X" onclick="openSidebar('127_Pump-Station Vandal',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\22_Statue Topplers.png" id="22_Statue Topplers" data-flag="@X" onclick="openSidebar('22_Statue Topplers',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\46_Refuse the Plea Deal.png" id="46_Refuse the Plea Deal" data-flag="@X" onclick="openSidebar('46_Refuse the Plea Deal',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\75_Sleepless Anticipation.png" id="75_Sleepless Anticipation" data-flag="@X" onclick="openSidebar('75_Sleepless Anticipation',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\103_Switch to a Burner.png" id="103_Switch to a Burner" data-flag="@X" onclick="openSidebar('103_Switch to a Burner',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\129_Rooftop Gardener.png" id="129_Rooftop Gardener" data-flag="@X" onclick="openSidebar('129_Rooftop Gardener',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\23_Supply Drop.png" id="23_Supply Drop" data-flag="@X" onclick="openSidebar('23_Supply Drop',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\49_Scout the Investors.png" id="49_Scout the Investors" data-flag="@X" onclick="openSidebar('49_Scout the Investors',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\77_Street Medic.png" id="77_Street Medic" data-flag="@X" onclick="openSidebar('77_Street Medic',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\105_The Torching of Carvhill Prison.png" id="105_The Torching of Carvhill Prison" data-flag="@X" onclick="openSidebar('105_The Torching of Carvhill Prison',true)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\130_Roving Commune.png" id="130_Roving Commune" data-flag="@X" onclick="openSidebar('130_Roving Commune',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\24_Supply Tent Coordinator.png" id="24_Supply Tent Coordinator" data-flag="@X" onclick="openSidebar('24_Supply Tent Coordinator',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\51_Streetlamp Splicer.png" id="51_Streetlamp Splicer" data-flag="@X" onclick="openSidebar('51_Streetlamp Splicer',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\79_Unsaid Plans.png" id="79_Unsaid Plans" data-flag="@X" onclick="openSidebar('79_Unsaid Plans',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\106_Turnstile Dodger.png" id="106_Turnstile Dodger" data-flag="@X" onclick="openSidebar('106_Turnstile Dodger',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\133_Soup-Table Gossip.png" id="133_Soup-Table Gossip" data-flag="@X" onclick="openSidebar('133_Soup-Table Gossip',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\25_Threat Modeling.png" id="25_Threat Modeling" data-flag="@X" onclick="openSidebar('25_Threat Modeling',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\52_Unlearn.png" id="52_Unlearn" data-flag="@X" onclick="openSidebar('52_Unlearn',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\80_Unseal Delcolinas Cave.png" id="80_Unseal Delcolinas Cave" data-flag="@X" onclick="openSidebar('80_Unseal Delcolinas Cave',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\107_Unvetted Punks.png" id="107_Unvetted Punks" data-flag="@X" onclick="openSidebar('107_Unvetted Punks',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\134_Steadfast Assembly.png" id="134_Steadfast Assembly" data-flag="@X" onclick="openSidebar('134_Steadfast Assembly',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img alt="/sets\APW-files\img\146_Epistole, Faceless Judgement.png" id="146_Epistole, Faceless Judgement" data-flag="@X" onclick="openSidebar('146_Epistole, Faceless Judgement',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\151_Machina, Isolation by Design.png" id="151_Machina, Isolation by Design" data-flag="@X" onclick="openSidebar('151_Machina, Isolation by Design',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\141_Caedes, the Bloodstained Gun.png" id="141_Caedes, the Bloodstained Gun" data-flag="@X" onclick="openSidebar('141_Caedes, the Bloodstained Gun',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\163_Vastitas, Extraction of the Earth.png" id="163_Vastitas, Extraction of the Earth" data-flag="@X" onclick="openSidebar('163_Vastitas, Extraction of the Earth',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\156_Patriar, Chains of the Family.png" id="156_Patriar, Chains of the Family" data-flag="@X" onclick="openSidebar('156_Patriar, Chains of the Family',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\154_An Oasis For Migrants.png" id="154_An Oasis For Migrants" data-flag="@X" onclick="openSidebar('154_An Oasis For Migrants',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\139_At The Speed Of Trust.png" id="139_At The Speed Of Trust" data-flag="@X" onclick="openSidebar('139_At The Speed Of Trust',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\157_Petrol Arsonist.png" id="157_Petrol Arsonist" data-flag="@X" onclick="openSidebar('157_Petrol Arsonist',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\144_Distro Culinaire.png" id="144_Distro Culinaire" data-flag="@X" onclick="openSidebar('144_Distro Culinaire',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\140_Barricade Raisers.png" id="140_Barricade Raisers" data-flag="@X" onclick="openSidebar('140_Barricade Raisers',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\162_Toolshare Collective.png" id="162_Toolshare Collective" data-flag="@X" onclick="openSidebar('162_Toolshare Collective',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\155_Op-Sec Analyst.png" id="155_Op-Sec Analyst" data-flag="@X" onclick="openSidebar('155_Op-Sec Analyst',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\160_Sabotage Trio.png" id="160_Sabotage Trio" data-flag="@X" onclick="openSidebar('160_Sabotage Trio',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\149_Iron-Spike Arborists.png" id="149_Iron-Spike Arborists" data-flag="@X" onclick="openSidebar('149_Iron-Spike Arborists',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\145_Enter the Black Snake.png" id="145_Enter the Black Snake" data-flag="@X" onclick="openSidebar('145_Enter the Black Snake',true)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\138_Argentia, the Rent Collector.png" id="138_Argentia, the Rent Collector" data-flag="@X" onclick="openSidebar('138_Argentia, the Rent Collector',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\148_Insigni, Pursuit of Fame.png" id="148_Insigni, Pursuit of Fame" data-flag="@X" onclick="openSidebar('148_Insigni, Pursuit of Fame',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\142_Cedere, Self-Hating Complicity.png" id="142_Cedere, Self-Hating Complicity" data-flag="@X" onclick="openSidebar('142_Cedere, Self-Hating Complicity',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\161_Stirpi, Pure-Blooded Nation.png" id="161_Stirpi, Pure-Blooded Nation" data-flag="@X" onclick="openSidebar('161_Stirpi, Pure-Blooded Nation',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\143_Crescero, Myth of Utopia.png" id="143_Crescero, Myth of Utopia" data-flag="@X" onclick="openSidebar('143_Crescero, Myth of Utopia',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\137_Adler Street Mask Distro.png" id="137_Adler Street Mask Distro" data-flag="@X" onclick="openSidebar('137_Adler Street Mask Distro',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\147_Ink-Aisle Bandit.png" id="147_Ink-Aisle Bandit" data-flag="@X" onclick="openSidebar('147_Ink-Aisle Bandit',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\158_Pill-Pilferer.png" id="158_Pill-Pilferer" data-flag="@X" onclick="openSidebar('158_Pill-Pilferer',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\164_Youth Uprising.png" id="164_Youth Uprising" data-flag="@X" onclick="openSidebar('164_Youth Uprising',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\136_3AM Lookout Shift.png" id="136_3AM Lookout Shift" data-flag="@X" onclick="openSidebar('136_3AM Lookout Shift',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\153_Nothing Left But One Another.png" id="153_Nothing Left But One Another" data-flag="@X" onclick="openSidebar('153_Nothing Left But One Another',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\150_Lens Busting.png" id="150_Lens Busting" data-flag="@X" onclick="openSidebar('150_Lens Busting',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\159_Resilient Care Team.png" id="159_Resilient Care Team" data-flag="@X" onclick="openSidebar('159_Resilient Care Team',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\165_Zine-Table Firebrand.png" id="165_Zine-Table Firebrand" data-flag="@X" onclick="openSidebar('165_Zine-Table Firebrand',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\152_Moonlit Planting.png" id="152_Moonlit Planting" data-flag="@X" onclick="openSidebar('152_Moonlit Planting',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\APW-files\img\167_Co-op Free Pile.png" id="167_Co-op Free Pile" data-flag="@X" onclick="openSidebar('167_Co-op Free Pile',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\168_Heavy U-Lock.png" id="168_Heavy U-Lock" data-flag="@X" onclick="openSidebar('168_Heavy U-Lock',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\170_Rusted Hatchback.png" id="170_Rusted Hatchback" data-flag="@X" onclick="openSidebar('170_Rusted Hatchback',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\172_Z-Rox Zine Machine.png" id="172_Z-Rox Zine Machine" data-flag="@X" onclick="openSidebar('172_Z-Rox Zine Machine',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\166_Bloc Attire.png" id="166_Bloc Attire" data-flag="@X" onclick="openSidebar('166_Bloc Attire',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\169_Kitchen Crew's Propane.png" id="169_Kitchen Crews Propane" data-flag="@X" onclick="openSidebar('169_Kitchen Crews Propane',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\171_Scouting Bike.png" id="171_Scouting Bike" data-flag="@X" onclick="openSidebar('171_Scouting Bike',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="land" class="anchor"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\176_Flooded Underpass.png" id="176_Flooded Underpass" data-flag="@X" onclick="openSidebar('176_Flooded Underpass',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\175_Crumbling Alley.png" id="175_Crumbling Alley" data-flag="@X" onclick="openSidebar('175_Crumbling Alley',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\179_Roaring Interstate.png" id="179_Roaring Interstate" data-flag="@X" onclick="openSidebar('179_Roaring Interstate',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\178_Overgrown Backroad.png" id="178_Overgrown Backroad" data-flag="@X" onclick="openSidebar('178_Overgrown Backroad',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\180_Wayward Station.png" id="180_Wayward Station" data-flag="@X" onclick="openSidebar('180_Wayward Station',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\173_Ashes of the Precinct.png" id="173_Ashes of the Precinct" data-flag="@X" onclick="openSidebar('173_Ashes of the Precinct',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\174_Bustling Avenue.png" id="174_Bustling Avenue" data-flag="@X" onclick="openSidebar('174_Bustling Avenue',false)"></div>
+			<div class="container"><img alt="/sets\APW-files\img\177_Foreclosed Townhouse.png" id="177_Foreclosed Townhouse" data-flag="@X" onclick="openSidebar('177_Foreclosed Townhouse',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

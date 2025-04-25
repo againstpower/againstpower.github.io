@@ -1,182 +1,183 @@
-ï»¿[CustomCards]
-	[	{
+[CustomCards]
+	[
+		{
 			"name": "Scout the Investors",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Battle â€” Mission ",
-			"collector_number": "44",
+			"mana_cost": "{1},{U}",
+			"type": "Battle — Mission",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/44_Scout the Investors.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/49_Scout the Investors.png"
 			}
 		},
 		{
 			"name": "Capture on Camera",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Battle â€” Mission ",
-			"collector_number": "56",
+			"mana_cost": "{1},{B}",
+			"type": "Battle — Mission",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/56_Capture on Camera.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/62_Capture on Camera.png"
 			}
 		},
 		{
 			"name": "The Torching of Carvhill Prison",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Battle â€” Mission ",
-			"collector_number": "93",
+			"mana_cost": "{2},{R}",
+			"type": "Battle — Mission",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/93_The Torching of Carvhill Prison.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/105_The Torching of Carvhill Prison.png"
 			}
 		},
 		{
 			"name": "Augustine Border Medicine Run",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
-			"type": "Battle â€” Mission ",
-			"collector_number": "98",
+			"mana_cost": "{2},{G}",
+			"type": "Battle — Mission",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/98_Augustine Border Medicine Run.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/110_Augustine Border Medicine Run.png"
 			}
 		},
 		{
 			"name": "Yutahne Plaza Occupation",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Battle â€” Barricade ",
-			"collector_number": "24",
+			"mana_cost": "{1},{W}",
+			"type": "Battle — Barricade",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/24_Yutahne Plaza Occupation.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/27_Yutahne Plaza Occupation.png"
 			}
 		},
 		{
 			"name": "Caluma Marsh Encampment",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Battle â€” Barricade ",
-			"collector_number": "55",
+			"type": "Battle — Barricade",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/55_Caluma Marsh Encampment.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/61_Caluma Marsh Encampment.png"
 			}
 		},
 		{
 			"name": "Great Sequoia Skycamp",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Battle â€” Barricade ",
-			"collector_number": "107",
+			"mana_cost": "{1},{G}",
+			"type": "Battle — Barricade",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/107_Great Sequoia Skycamp.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/120_Great Sequoia Skycamp.png"
 			}
 		},
 		{
 			"name": "Evade the Authorities",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{1},{W}",
 			"type": "Instant",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/4_Evade the Authorities.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/5_Evade the Authorities.png"
 			}
 		},
 		{
 			"name": "Afterhours Intruder",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature â€” Human Rogue ",
-			"collector_number": "97",
+			"type": "Creature — Human Rogue",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/97_Afterhours Intruder.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/109_Afterhours Intruder.png"
 			}
 		},
 		{
 			"name": "Zine-Table Firebrand",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{W}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "150",
+			"mana_cost": "{1},{R},{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/150_Zine-Table Firebrand.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/165_Zine-Table Firebrand.png"
 			}
 		},
 		{
 			"name": "Lens Busting",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{R}",
+			"mana_cost": "{1},{U},{R}",
 			"type": "Sorcery",
-			"collector_number": "135",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/135_Lens Busting.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/150_Lens Busting.png"
 			}
 		},
 		{
 			"name": "Pill-Pilferer",
 			"rarity": "uncommon",
-			"mana_cost": "{B}{G}",
-			"type": "Creature â€” Human Rogue ",
-			"collector_number": "143",
+			"mana_cost": "{B},{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/143_Pill-Pilferer.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/158_Pill-Pilferer.png"
 			}
 		},
 		{
 			"name": "Moonlit Planting",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{U}",
+			"mana_cost": "{G},{U}",
 			"type": "Instant",
-			"collector_number": "137",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/137_Moonlit Planting.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/152_Moonlit Planting.png"
 			}
 		},
 		{
 			"name": "Sabotage Trio",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Creature â€” Human Rogue ",
-			"collector_number": "145",
+			"mana_cost": "{1},{B},{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/145_Sabotage Trio.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/160_Sabotage Trio.png"
 			}
 		},
 		{
 			"name": "Cautious Assembly",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Creature â€” Human Advisor ",
-			"collector_number": "30",
+			"mana_cost": "{1},{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/30_Cautious Assembly.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/33_Cautious Assembly.png"
 			}
 		},
 		{
 			"name": "Bitter Assembly",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Creature â€” Human ",
-			"collector_number": "54",
+			"mana_cost": "{1},{B}",
+			"type": "Creature — Human",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/54_Bitter Assembly.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/60_Bitter Assembly.png"
 			}
 		},
 		{
 			"name": "Agitative Assembly",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "74",
+			"mana_cost": "{2},{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/74_Agitative Assembly.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/83_Agitative Assembly.png"
 			}
 		},
 		{
 			"name": "Steadfast Assembly",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "119",
+			"mana_cost": "{2},{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/119_Steadfast Assembly.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/134_Steadfast Assembly.png"
 			}
 		},
 		{
@@ -184,19 +185,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "159",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/159_Bustling Avenue.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/174_Bustling Avenue.png"
 			}
 		},
 		{
 			"name": "Distro Culinaire",
 			"rarity": "uncommon",
-			"mana_cost": "{R}{G}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "129",
+			"mana_cost": "{R},{G}",
+			"type": "Creature — Human",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/129_Distro Culinaire.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/144_Distro Culinaire.png"
 			}
 		},
 		{
@@ -204,9 +205,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "161",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/161_Flooded Underpass.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/176_Flooded Underpass.png"
 			}
 		},
 		{
@@ -214,9 +215,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "160",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/160_Crumbling Alley.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/175_Crumbling Alley.png"
 			}
 		},
 		{
@@ -224,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "164",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/164_Roaring Interstate.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/179_Roaring Interstate.png"
 			}
 		},
 		{
@@ -234,29 +235,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "163",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/163_Overgrown Backroad.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/178_Overgrown Backroad.png"
 			}
 		},
 		{
 			"name": "Decentralized Offensive",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{1},{G}",
 			"type": "Instant",
-			"collector_number": "105",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/105_Decentralized Offensive.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/118_Decentralized Offensive.png"
 			}
 		},
 		{
 			"name": "Scouting Bike",
 			"rarity": "common",
 			"mana_cost": "{1}",
-			"type": "Artifact â€” Vehicle ",
-			"collector_number": "156",
+			"type": "Artifact — Vehicle",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/156_Scouting Bike.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/171_Scouting Bike.png"
 			}
 		},
 		{
@@ -264,109 +265,109 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "39",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/39_Kickflip.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/43_Kickflip.png"
 			}
 		},
 		{
 			"name": "Switch to a Burner",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{1},{R}",
 			"type": "Sorcery",
-			"collector_number": "91",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/91_Switch to a Burner.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/103_Switch to a Burner.png"
 			}
 		},
 		{
 			"name": "In the Public Eye",
 			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Enchantment â€” Aura ",
-			"collector_number": "38",
+			"mana_cost": "{3},{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/38_In the Public Eye.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/42_In the Public Eye.png"
 			}
 		},
 		{
 			"name": "New Years Noise Demo",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{2},{G}",
 			"type": "Instant",
-			"collector_number": "111",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/111_New Years Noise Demo.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/125_New Years Noise Demo.png"
 			}
 		},
 		{
 			"name": "Post-Convergence Partiers",
 			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "85",
+			"mana_cost": "{3},{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/85_Post-Convergence Partiers.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/96_Post-Convergence Partiers.png"
 			}
 		},
 		{
 			"name": "Come to Consensus",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Enchantment â€” Aura ",
-			"collector_number": "31",
+			"type": "Enchantment — Aura",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/31_Come to Consensus.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/34_Come to Consensus.png"
 			}
 		},
 		{
 			"name": "Camp Rooster",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature â€” Bird ",
-			"collector_number": "77",
+			"type": "Creature — Bird",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/77_Camp Rooster.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/86_Camp Rooster.png"
 			}
 		},
 		{
 			"name": "Experienced Trespasser",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Creature â€” Human Rogue ",
-			"collector_number": "34",
+			"mana_cost": "{2},{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/34_Experienced Trespasser.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/37_Experienced Trespasser.png"
 			}
 		},
 		{
 			"name": "Turnstile Dodger",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Creature â€” Human Rogue ",
-			"collector_number": "94",
+			"mana_cost": "{1},{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/94_Turnstile Dodger.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/106_Turnstile Dodger.png"
 			}
 		},
 		{
 			"name": "Legal Defense Counsel",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
-			"type": "Creature â€” Human Advisor ",
-			"collector_number": "62",
+			"mana_cost": "{2},{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/62_Legal Defense Counsel.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/68_Legal Defense Counsel.png"
 			}
 		},
 		{
 			"name": "Resolute Ecologist",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Creature â€” Human Ranger ",
-			"collector_number": "114",
+			"mana_cost": "{2},{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/114_Resolute Ecologist.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/128_Resolute Ecologist.png"
 			}
 		},
 		{
@@ -374,39 +375,39 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "165",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/165_Wayward Station.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/180_Wayward Station.png"
 			}
 		},
 		{
 			"name": "Supply Drop",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{3},{W}",
 			"type": "Sorcery",
-			"collector_number": "20",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/20_Supply Drop.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/23_Supply Drop.png"
 			}
 		},
 		{
 			"name": "Angle-Grinder Rascal",
 			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Creature â€” Human Artificer Rogue ",
-			"collector_number": "75",
+			"mana_cost": "{3},{R}",
+			"type": "Creature — Human Artificer Rogue",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/75_Angle-Grinder Rascal.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/84_Angle-Grinder Rascal.png"
 			}
 		},
 		{
 			"name": "Heavy U-Lock",
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
-			"type": "Artifact â€” Equipment ",
-			"collector_number": "153",
+			"type": "Artifact — Equipment",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/153_Heavy U-Lock.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/168_Heavy U-Lock.png"
 			}
 		},
 		{
@@ -414,119 +415,119 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "157",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/157_Z-Rox Zine Machine.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/172_Z-Rox Zine Machine.png"
 			}
 		},
 		{
 			"name": "Queer Defiance",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{1},{R}",
 			"type": "Enchantment",
-			"collector_number": "87",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/87_Queer Defiance.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/98_Queer Defiance.png"
 			}
 		},
 		{
 			"name": "Live Life To The Fullest",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{1},{R}",
 			"type": "Sorcery",
-			"collector_number": "83",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/83_Live Life To The Fullest.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/93_Live Life To The Fullest.png"
 			}
 		},
 		{
 			"name": "Nothing Left But One Another",
 			"rarity": "uncommon",
-			"mana_cost": "{W}{B}",
+			"mana_cost": "{W},{B}",
 			"type": "Enchantment",
-			"collector_number": "138",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/138_Nothing Left But One Another.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/153_Nothing Left But One Another.png"
 			}
 		},
 		{
 			"name": "Advocate of the Jailed",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature â€” Human Warrior ",
-			"collector_number": "26",
+			"type": "Creature — Human Warrior",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/26_Advocate of the Jailed.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/29_Advocate of the Jailed.png"
 			}
 		},
 		{
 			"name": "Freight-Line Vagabond",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature â€” Human Rogue ",
-			"collector_number": "35",
+			"type": "Creature — Human Rogue",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/35_Freight-Line Vagabond.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/39_Freight-Line Vagabond.png"
 			}
 		},
 		{
 			"name": "Autonomous Mesh Network",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{2},{U}",
 			"type": "Enchantment",
-			"collector_number": "29",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/29_Autonomous Mesh Network.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/32_Autonomous Mesh Network.png"
 			}
 		},
 		{
 			"name": "Rooftop Gardener",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature â€” Human Druid ",
-			"collector_number": "115",
+			"type": "Creature — Human Druid",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/115_Rooftop Gardener.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/129_Rooftop Gardener.png"
 			}
 		},
 		{
 			"name": "Diversity of Tactics",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{1},{R}",
 			"type": "Sorcery",
-			"collector_number": "81",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/81_Diversity of Tactics.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/90_Diversity of Tactics.png"
 			}
 		},
 		{
 			"name": "Soup-Table Gossip",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Creature â€” Human Advisor ",
-			"collector_number": "118",
+			"mana_cost": "{1},{G}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/118_Soup-Table Gossip.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/133_Soup-Table Gossip.png"
 			}
 		},
 		{
 			"name": "Squatters' Rebuke",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{2},{R}",
 			"type": "Instant",
-			"collector_number": "90",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/90_Squatters' Rebuke.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/102_Squatters' Rebuke.png"
 			}
 		},
 		{
 			"name": "Unvetted Punks",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "95",
+			"type": "Creature — Human Warrior",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/95_Unvetted Punks.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/107_Unvetted Punks.png"
 			}
 		},
 		{
@@ -534,29 +535,29 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
-			"collector_number": "71",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/71_Unsaid Plans.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/79_Unsaid Plans.png"
 			}
 		},
 		{
 			"name": "Digital Arsonist",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "80",
+			"mana_cost": "{1},{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/80_Digital Arsonist.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/89_Digital Arsonist.png"
 			}
 		},
 		{
 			"name": "Bloc Attire",
 			"rarity": "common",
 			"mana_cost": "{1}",
-			"type": "Artifact â€” Equipment ",
-			"collector_number": "151",
+			"type": "Artifact — Equipment",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/151_Bloc Attire.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/166_Bloc Attire.png"
 			}
 		},
 		{
@@ -564,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "154",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/154_Kitchen Crew's Propane.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/169_Kitchen Crew's Propane.png"
 			}
 		},
 		{
@@ -574,9 +575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "152",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/152_Co-op Free Pile.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/167_Co-op Free Pile.png"
 			}
 		},
 		{
@@ -584,129 +585,129 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "158",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/158_Ashes of the Precinct.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/173_Ashes of the Precinct.png"
 			}
 		},
 		{
 			"name": "Carvhill Crane Lockdown",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Battle â€” Barricade ",
+			"mana_cost": "{1},{W}",
+			"type": "Battle — Barricade",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/1_Carvhill Crane Lockdown.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/1_Carvhill Crane Lockdown.png"
 			}
 		},
 		{
 			"name": "DIY Shield Crew",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature â€” Human Artificer Rebel ",
-			"collector_number": "3",
+			"type": "Creature — Human Artificer",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/3_DIY Shield Crew.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/4_DIY Shield Crew.png"
 			}
 		},
 		{
 			"name": "Barricade Raisers",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
-			"type": "Creature â€” Human Artificer Rebel ",
-			"collector_number": "125",
+			"mana_cost": "{1},{G},{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/125_Barricade Raisers.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/140_Barricade Raisers.png"
 			}
 		},
 		{
 			"name": "Toolshare Collective",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Creature â€” Human  Artificer Rebel ",
-			"collector_number": "147",
+			"mana_cost": "{1},{W},{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/147_Toolshare Collective.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/162_Toolshare Collective.png"
 			}
 		},
 		{
 			"name": "3AM Lookout Shift",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{U}",
-			"type": "Creature â€” Human Rebel Scout ",
-			"collector_number": "121",
+			"mana_cost": "{1},{G},{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/121_3AM Lookout Shift.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/136_3AM Lookout Shift.png"
 			}
 		},
 		{
 			"name": "Resilient Care Team",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "144",
+			"mana_cost": "{1},{B},{G}",
+			"type": "Creature — Human Doctor",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/144_Resilient Care Team.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/159_Resilient Care Team.png"
 			}
 		},
 		{
 			"name": "Youth Uprising",
 			"rarity": "uncommon",
-			"mana_cost": "{X}{R}{W}",
+			"mana_cost": "{X},{R},{W}",
 			"type": "Enchantment",
-			"collector_number": "149",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/149_Youth Uprising.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/164_Youth Uprising.png"
 			}
 		},
 		{
 			"name": "Iron-Spike Arborists",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{G}",
-			"type": "Creature â€” Human Rebel Ranger ",
-			"collector_number": "134",
+			"mana_cost": "{1},{R},{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/134_Iron-Spike Arborists.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/149_Iron-Spike Arborists.png"
 			}
 		},
 		{
 			"name": "Op-Sec Analyst",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{B}",
-			"type": "Creature â€” Human Rogue Advisor ",
-			"collector_number": "140",
+			"mana_cost": "{U},{B}",
+			"type": "Creature — Human Rogue Advisor",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/140_Op-Sec Analyst.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/155_Op-Sec Analyst.png"
 			}
 		},
 		{
 			"name": "Ink-Aisle Bandit",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Creature â€” Human Rogue ",
-			"collector_number": "132",
+			"mana_cost": "{1},{U},{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/132_Ink-Aisle Bandit.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/147_Ink-Aisle Bandit.png"
 			}
 		},
 		{
 			"name": "Petrol Arsonist",
 			"rarity": "uncommon",
-			"mana_cost": "{B}{R}",
-			"type": "Creature â€” Human Warrior ",
-			"collector_number": "142",
+			"mana_cost": "{B},{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/142_Petrol Arsonist.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/157_Petrol Arsonist.png"
 			}
 		},
 		{
 			"name": "Postcards and Commissary",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Battle â€” Mission ",
-			"collector_number": "112",
+			"type": "Battle — Mission",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/112_Postcards and Commissary.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/126_Postcards and Commissary.png"
 			}
 		},
 		{
@@ -714,99 +715,99 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/60_Escape Unidentified.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/66_Escape Unidentified.png"
 			}
 		},
 		{
 			"name": "Old Friends, New Names",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{3},{B},{B}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/64_Old Friends, New Names.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/70_Old Friends, New Names.png"
 			}
 		},
 		{
 			"name": "Improvised Roadblock",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature â€” Wall ",
-			"collector_number": "5",
+			"mana_cost": "{1},{W}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/5_Improvised Roadblock.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/6_Improvised Roadblock.png"
 			}
 		},
 		{
 			"name": "Anti-Gentrifier Frontline",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Creature â€” Human Rebel Warrior ",
-			"collector_number": "51",
+			"mana_cost": "{2},{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/51_Anti-Gentrifier Frontline.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/57_Anti-Gentrifier Frontline.png"
 			}
 		},
 		{
 			"name": "Strategic Debrief",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{2},{G}",
 			"type": "Instant",
-			"collector_number": "120",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/120_Strategic Debrief.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/135_Strategic Debrief.png"
 			}
 		},
 		{
 			"name": "Bail-Fund Signatory",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Creature â€” Human  Advisor ",
-			"collector_number": "53",
+			"mana_cost": "{2},{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/53_Bail-Fund Signatory.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/59_Bail-Fund Signatory.png"
 			}
 		},
 		{
 			"name": "Rallying Chant-Leader",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "16",
+			"mana_cost": "{1},{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/16_Rallying Chant-Leader.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/18_Rallying Chant-Leader.png"
 			}
 		},
 		{
 			"name": "San Tavio Port Blockade",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Battle â€” Barricade ",
-			"collector_number": "43",
+			"mana_cost": "{1},{U}",
+			"type": "Battle — Barricade",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/43_San Tavio Port Blockade.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/48_San Tavio Port Blockade.png"
 			}
 		},
 		{
 			"name": "Morgan Park Autonomous Zone",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Battle â€” Barricade ",
-			"collector_number": "84",
+			"mana_cost": "{1},{R}",
+			"type": "Battle — Barricade",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/84_Morgan Park Autonomous Zone.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/95_Morgan Park Autonomous Zone.png"
 			}
 		},
 		{
 			"name": "Roving Commune",
 			"rarity": "common",
-			"mana_cost": "{3}{G}",
-			"type": "Creature â€” Human Ranger ",
-			"collector_number": "116",
+			"mana_cost": "{3},{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/116_Roving Commune.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/130_Roving Commune.png"
 			}
 		},
 		{
@@ -814,189 +815,189 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/7_Intertwined Struggles.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/8_Intertwined Struggles.png"
 			}
 		},
 		{
 			"name": "Pump-Station Vandal",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Creature â€” Human  Warrior ",
-			"collector_number": "113",
+			"mana_cost": "{1},{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/113_Pump-Station Vandal.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/127_Pump-Station Vandal.png"
 			}
 		},
 		{
 			"name": "Pseudonymous Messenger",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature â€” Human Rogue ",
-			"collector_number": "67",
+			"type": "Creature — Human Rogue",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/67_Pseudonymous Messenger.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/73_Pseudonymous Messenger.png"
 			}
 		},
 		{
 			"name": "At The Speed Of Trust",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{B}",
+			"mana_cost": "{2},{U},{B}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/124_At The Speed Of Trust.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/139_At The Speed Of Trust.png"
 			}
 		},
 		{
 			"name": "Street Medic",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "70",
+			"mana_cost": "{1},{B}",
+			"type": "Creature — Human Doctor",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/70_Street Medic.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/77_Street Medic.png"
 			}
 		},
 		{
 			"name": "Climbing the Sequoias",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{1},{G}",
 			"type": "Instant",
-			"collector_number": "102",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/102_Climbing the Sequoias.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/115_Climbing the Sequoias.png"
 			}
 		},
 		{
 			"name": "Convergence Organizer",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Creature â€” Human Scout ",
-			"collector_number": "104",
+			"mana_cost": "{1},{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/104_Convergence Organizer.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/117_Convergence Organizer.png"
 			}
 		},
 		{
 			"name": "Return the Tear Gas",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{1},{B}",
 			"type": "Sorcery",
-			"collector_number": "68",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/68_Return the Tear Gas.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/74_Return the Tear Gas.png"
 			}
 		},
 		{
 			"name": "Sleepless Anticipation",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{1},{B}",
 			"type": "Sorcery",
-			"collector_number": "69",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/69_Sleepless Anticipation.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/75_Sleepless Anticipation.png"
 			}
 		},
 		{
 			"name": "Caluma Easement Trailblazer",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Creature â€” Human Rebel Scout ",
-			"collector_number": "76",
+			"mana_cost": "{2},{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/76_Caluma Easement Trailblazer.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/85_Caluma Easement Trailblazer.png"
 			}
 		},
 		{
 			"name": "Housing Team Forger",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Creature â€” Human  Artificer ",
-			"collector_number": "36",
+			"mana_cost": "{1},{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/36_Housing Team Forger.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/40_Housing Team Forger.png"
 			}
 		},
 		{
 			"name": "Statue Topplers",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "19",
+			"mana_cost": "{2},{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/19_Statue Topplers.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/22_Statue Topplers.png"
 			}
 		},
 		{
 			"name": "Unseal Delcolinas Cave",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{1},{B}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/72_Unseal Delcolinas Cave.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/80_Unseal Delcolinas Cave.png"
 			}
 		},
 		{
 			"name": "Salvaged Spokes Bike Distro",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Creature â€” Human Artificer ",
-			"collector_number": "88",
+			"mana_cost": "{1},{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/88_Salvaged Spokes Bike Distro.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/99_Salvaged Spokes Bike Distro.png"
 			}
 		},
 		{
 			"name": "Morgan Park Cop Watch",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Creature â€” Human Scout ",
-			"collector_number": "11",
+			"mana_cost": "{3},{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/11_Morgan Park Cop Watch.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/12_Morgan Park Cop Watch.png"
 			}
 		},
 		{
 			"name": "Foraging Herbalist",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
-			"type": "Creature â€” Human Druid ",
-			"collector_number": "106",
+			"mana_cost": "{2},{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/106_Foraging Herbalist.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/119_Foraging Herbalist.png"
 			}
 		},
 		{
 			"name": "Militant Assembly",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature â€” Human ",
-			"collector_number": "10",
+			"mana_cost": "{1},{W}",
+			"type": "Creature — Human",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/10_Militant Assembly.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/11_Militant Assembly.png"
 			}
 		},
 		{
 			"name": "Paint the Streets Defiant",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Battle â€” Mission ",
-			"collector_number": "13",
+			"mana_cost": "{2},{W}",
+			"type": "Battle — Mission",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/13_Paint the Streets Defiant.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/14_Paint the Streets Defiant.png"
 			}
 		},
 		{
 			"name": "Arms-Linked Obstinates",
 			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Creature â€” Human Warrior ",
-			"collector_number": "52",
+			"mana_cost": "{3},{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/52_Arms-Linked Obstinates.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/58_Arms-Linked Obstinates.png"
 			}
 		},
 		{
@@ -1004,9 +1005,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "22",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/22_Threat Modeling.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/25_Threat Modeling.png"
 			}
 		},
 		{
@@ -1014,169 +1015,169 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/6_Interrupt Arrest.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/7_Interrupt Arrest.png"
 			}
 		},
 		{
 			"name": "Supply Tent Coordinator",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "21",
+			"mana_cost": "{2},{W}",
+			"type": "Creature — Human",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/21_Supply Tent Coordinator.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/24_Supply Tent Coordinator.png"
 			}
 		},
 		{
 			"name": "Lex, Doctrine of One Truth",
 			"rarity": "mythic",
-			"mana_cost": "{5}{W}{W}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "8",
+			"mana_cost": "{5},{W},{W}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/8_Lex, Doctrine of One Truth.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/9_Lex, Doctrine of One Truth.png"
 			}
 		},
 		{
 			"name": "Annoto, Alienated Spectator",
 			"rarity": "mythic",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "28",
+			"mana_cost": "{1},{U},{U}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/28_Annoto, Alienated Spectator.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/31_Annoto, Alienated Spectator.png"
 			}
 		},
 		{
 			"name": "Adroganta, the Self Above All",
 			"rarity": "mythic",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "49",
+			"mana_cost": "{4},{B},{B}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/49_Adroganta, the Self Above All.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/55_Adroganta, the Self Above All.png"
 			}
 		},
 		{
 			"name": "Consona, Death of Culture",
 			"rarity": "mythic",
-			"mana_cost": "{4}{G}{G}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "103",
+			"mana_cost": "{4},{G},{G}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/103_Consona, Death of Culture.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/116_Consona, Death of Culture.png"
 			}
 		},
 		{
 			"name": "Caedes, the Bloodstained Gun",
 			"rarity": "mythic",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "126",
+			"mana_cost": "{2},{B},{R}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/126_Caedes, the Bloodstained Gun.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/141_Caedes, the Bloodstained Gun.png"
 			}
 		},
 		{
 			"name": "Argentia, the Rent Collector",
 			"rarity": "mythic",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "123",
+			"mana_cost": "{2},{W},{B}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/123_Argentia, the Rent Collector.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/138_Argentia, the Rent Collector.png"
 			}
 		},
 		{
 			"name": "Insigni, Pursuit of Fame",
 			"rarity": "mythic",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "133",
+			"mana_cost": "{1},{U},{R}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/133_Insigni, Pursuit of Fame.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/148_Insigni, Pursuit of Fame.png"
 			}
 		},
 		{
 			"name": "Cedere, Self-Hating Complicity",
 			"rarity": "mythic",
-			"mana_cost": "{2}{B}{G}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "127",
+			"mana_cost": "{2},{B},{G}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/127_Cedere, Self-Hating Complicity.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/142_Cedere, Self-Hating Complicity.png"
 			}
 		},
 		{
 			"name": "Patriar, Chains of the Family",
 			"rarity": "mythic",
-			"mana_cost": "{4}{G}{W}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "141",
+			"mana_cost": "{4},{G},{W}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/141_Patriar, Chains of the Family.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/156_Patriar, Chains of the Family.png"
 			}
 		},
 		{
 			"name": "Vastitas, Extraction of the Earth",
 			"rarity": "mythic",
-			"mana_cost": "{3}{R}{G}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "148",
+			"mana_cost": "{3},{R},{G}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/148_Vastitas, Extraction of the Earth.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/163_Vastitas, Extraction of the Earth.png"
 			}
 		},
 		{
 			"name": "Epistole, Faceless Judgement",
 			"rarity": "mythic",
-			"mana_cost": "{4}{W}{U}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "131",
+			"mana_cost": "{4},{W},{U}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/131_Epistole, Faceless Judgement.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/146_Epistole, Faceless Judgement.png"
 			}
 		},
 		{
 			"name": "Machina, Isolation by Design",
 			"rarity": "mythic",
-			"mana_cost": "{3}{U}{B}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "136",
+			"mana_cost": "{3},{U},{B}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/136_Machina, Isolation by Design.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/151_Machina, Isolation by Design.png"
 			}
 		},
 		{
 			"name": "Stirpi, Pure-Blooded Nation",
 			"rarity": "mythic",
-			"mana_cost": "{1}{R}{W}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "146",
+			"mana_cost": "{1},{R},{W}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/146_Stirpi, Pure-Blooded Nation.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/161_Stirpi, Pure-Blooded Nation.png"
 			}
 		},
 		{
 			"name": "Crescero, Myth of Utopia",
 			"rarity": "mythic",
-			"mana_cost": "{1}{G}{U}",
-			"type": "Legendary Creature â€” Incarnation ",
-			"collector_number": "128",
+			"mana_cost": "{1},{G},{U}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/128_Crescero, Myth of Utopia.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/143_Crescero, Myth of Utopia.png"
 			}
 		},
 		{
 			"name": "Against Power",
 			"rarity": "mythic",
-			"mana_cost": "{R}{R}",
+			"mana_cost": "{R},{R}",
 			"type": "Sorcery",
-			"collector_number": "73",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/73_Against Power.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/82_Against Power.png"
 			}
 		},
 		{
@@ -1184,219 +1185,219 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "162",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/162_Foreclosed Townhouse.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/177_Foreclosed Townhouse.png"
 			}
 		},
 		{
 			"name": "Banner Droppers",
 			"rarity": "common",
-			"mana_cost": "{4}{G}",
-			"type": "Creature â€” Human Warrior ",
-			"collector_number": "99",
+			"mana_cost": "{4},{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/99_Banner Droppers.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/112_Banner Droppers.png"
 			}
 		},
 		{
 			"name": "Aerial Videographer",
 			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Creature â€” Human Scout ",
-			"collector_number": "27",
+			"mana_cost": "{3},{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/27_Aerial Videographer.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/30_Aerial Videographer.png"
 			}
 		},
 		{
 			"name": "Streetlamp Splicer",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Creature â€” Human Artificer ",
-			"collector_number": "46",
+			"mana_cost": "{2},{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/46_Streetlamp Splicer.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/51_Streetlamp Splicer.png"
 			}
 		},
 		{
 			"name": "Refuse the Plea Deal",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{1},{U}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/41_Refuse the Plea Deal.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/46_Refuse the Plea Deal.png"
 			}
 		},
 		{
 			"name": "Database Breachers",
 			"rarity": "common",
-			"mana_cost": "{4}{U}",
-			"type": "Creature â€” Human Rogue ",
-			"collector_number": "32",
+			"mana_cost": "{4},{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/32_Database Breachers.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/35_Database Breachers.png"
 			}
 		},
 		{
 			"name": "Unlearn",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{2},{U}",
 			"type": "Instant",
-			"collector_number": "47",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/47_Unlearn.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/52_Unlearn.png"
 			}
 		},
 		{
 			"name": "The May Day Book Fair",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{1},{W}",
 			"type": "Enchantment",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/9_The May Day Book Fair.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/10_The May Day Book Fair.png"
 			}
 		},
 		{
 			"name": "Pre-Action Strategists",
 			"rarity": "common",
-			"mana_cost": "{4}{W}",
-			"type": "Creature â€” Human Advisor Warrior ",
-			"collector_number": "14",
+			"mana_cost": "{4},{W}",
+			"type": "Creature — Human Advisor Warrior",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/14_Pre-Action Strategists.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/15_Pre-Action Strategists.png"
 			}
 		},
 		{
 			"name": "Delegitimize",
 			"rarity": "common",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{3},{B}",
 			"type": "Instant",
-			"collector_number": "58",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/58_Delegitimize.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/64_Delegitimize.png"
 			}
 		},
 		{
 			"name": "Lockdown Legal Support",
 			"rarity": "common",
-			"mana_cost": "{4}{B}",
-			"type": "Creature â€” Human Advisor ",
-			"collector_number": "63",
+			"mana_cost": "{4},{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/63_Lockdown Legal Support.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/69_Lockdown Legal Support.png"
 			}
 		},
 		{
 			"name": "Enter the Black Snake",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{W}",
-			"type": "Battle â€” Mission ",
-			"collector_number": "130",
+			"mana_cost": "{2},{G},{W}",
+			"type": "Battle — Mission",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/130_Enter the Black Snake.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/145_Enter the Black Snake.png"
 			}
 		},
 		{
 			"name": "An Oasis For Migrants",
 			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
+			"mana_cost": "{W},{U}",
 			"type": "Sorcery",
-			"collector_number": "139",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/139_An Oasis For Migrants.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/154_An Oasis For Migrants.png"
 			}
 		},
 		{
 			"name": "Adler Street Mask Distro",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "122",
+			"mana_cost": "{1},{W},{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/122_Adler Street Mask Distro.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/137_Adler Street Mask Distro.png"
 			}
 		},
 		{
 			"name": "Disappearing Messages",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{1},{U}",
 			"type": "Enchantment",
-			"collector_number": "33",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/33_Disappearing Messages.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/36_Disappearing Messages.png"
 			}
 		},
 		{
 			"name": "Adler Street Tenants Union",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
-			"type": "Creature â€” Human ",
-			"collector_number": "25",
+			"mana_cost": "{3},{U}",
+			"type": "Creature — Human",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/25_Adler Street Tenants Union.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/28_Adler Street Tenants Union.png"
 			}
 		},
 		{
 			"name": "Covert Pill-Presser",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Creature â€” Human Rogue ",
-			"collector_number": "57",
+			"type": "Creature — Human Rogue",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/57_Covert Pill-Presser.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/63_Covert Pill-Presser.png"
 			}
 		},
 		{
 			"name": "Prepare for the Quake",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{R}",
-			"type": "Enchantment â€” Aura ",
-			"collector_number": "86",
+			"mana_cost": "{4},{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/86_Prepare for the Quake.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/97_Prepare for the Quake.png"
 			}
 		},
 		{
 			"name": "Conflict Circle Facilitator",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature â€” Human Advisor ",
-			"collector_number": "2",
+			"type": "Creature — Human Advisor",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/2_Conflict Circle Facilitator.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/3_Conflict Circle Facilitator.png"
 			}
 		},
 		{
 			"name": "Rising Tide Arts Collective",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{U}",
-			"type": "Creature â€” Human Artificer ",
-			"collector_number": "42",
+			"mana_cost": "{4},{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/42_Rising Tide Arts Collective.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/47_Rising Tide Arts Collective.png"
 			}
 		},
 		{
 			"name": "Break Pavement For Gardens",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{1},{G}",
 			"type": "Enchantment",
-			"collector_number": "100",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/100_Break Pavement For Gardens.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/113_Break Pavement For Gardens.png"
 			}
 		},
 		{
 			"name": "Dumpster Diver",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Creature â€” Human Scout ",
-			"collector_number": "59",
+			"mana_cost": "{1},{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/59_Dumpster Diver.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/65_Dumpster Diver.png"
 			}
 		},
 		{
@@ -1404,59 +1405,59 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/37_Imagine a Better World.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/41_Imagine a Better World.png"
 			}
 		},
 		{
 			"name": "Nourish the Neighborhood",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{W}",
+			"mana_cost": "{5},{W}",
 			"type": "Sorcery",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/12_Nourish the Neighborhood.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/13_Nourish the Neighborhood.png"
 			}
 		},
 		{
 			"name": "Riot Dog",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature â€” Dog ",
-			"collector_number": "18",
+			"type": "Creature — Dog",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/18_Riot Dog.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/20_Riot Dog.png"
 			}
 		},
 		{
 			"name": "On-Call Jail Support",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
-			"type": "Creature â€” Human Advisor ",
-			"collector_number": "65",
+			"mana_cost": "{3},{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/65_On-Call Jail Support.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/71_On-Call Jail Support.png"
 			}
 		},
 		{
 			"name": "Tire Slasher",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Creature â€” Human Rogue ",
-			"collector_number": "92",
+			"type": "Creature — Human Rogue",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/92_Tire Slasher.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/104_Tire Slasher.png"
 			}
 		},
 		{
 			"name": "Livestock Liberator",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Creature â€” Human Rogue ",
-			"collector_number": "108",
+			"mana_cost": "{2},{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/108_Livestock Liberator.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/121_Livestock Liberator.png"
 			}
 		},
 		{
@@ -1464,508 +1465,704 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "17",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/17_Rent Strike.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/19_Rent Strike.png"
 			}
 		},
 		{
 			"name": "Yutahne Plaza Audio Tech",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Creature â€” Human Artificer  ",
-			"collector_number": "48",
+			"mana_cost": "{2},{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/48_Yutahne Plaza Audio Tech.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/54_Yutahne Plaza Audio Tech.png"
 			}
 		},
 		{
 			"name": "Info-Shop Cat",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Creature â€” Cat ",
-			"collector_number": "61",
+			"type": "Creature — Cat",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/61_Info-Shop Cat.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/67_Info-Shop Cat.png"
 			}
 		},
 		{
 			"name": "Converge on the Convention",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{2},{R}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/79_Converge on the Convention.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/88_Converge on the Convention.png"
 			}
 		},
 		{
 			"name": "Media Liason",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "109",
+			"type": "Creature — Human Scout",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/109_Media Liason.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/122_Media Liason.png"
 			}
 		},
 		{
 			"name": "Soil Remediation Chemist",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Creature â€” Human Druid ",
-			"collector_number": "117",
+			"mana_cost": "{1},{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/117_Soil Remediation Chemist.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/132_Soil Remediation Chemist.png"
 			}
 		},
 		{
 			"name": "Camo Bloc Fencebreakers",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Creature â€” Human Warrior ",
-			"collector_number": "101",
+			"mana_cost": "{3},{G},{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/101_Camo Bloc Fencebreakers.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/114_Camo Bloc Fencebreakers.png"
 			}
 		},
 		{
 			"name": "Morgan Park Eviction Defense",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
-			"type": "Creature â€” Human Warrior ",
-			"collector_number": "110",
+			"mana_cost": "{3},{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/110_Morgan Park Eviction Defense.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/123_Morgan Park Eviction Defense.png"
 			}
 		},
 		{
 			"name": "A Circle For Emotion",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{1},{R}",
 			"type": "Enchantment",
-			"collector_number": "78",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/78_A Circle For Emotion.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/87_A Circle For Emotion.png"
 			}
 		},
 		{
 			"name": "Skycamp Solar Array",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Artifact Creature â€” Wall ",
-			"collector_number": "89",
+			"mana_cost": "{2},{R}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/89_Skycamp Solar Array.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/101_Skycamp Solar Array.png"
 			}
 		},
 		{
 			"name": "Wildfire Midwife",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Creature â€” Human Druid ",
-			"collector_number": "96",
+			"mana_cost": "{2},{R}",
+			"type": "Creature — Human Doctor",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/96_Wildfire Midwife.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/108_Wildfire Midwife.png"
 			}
 		},
 		{
 			"name": "Hardware Acquisitionist",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{R}",
-			"type": "Creature â€” Human Pirate ",
-			"collector_number": "82",
+			"mana_cost": "{3},{R},{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/82_Hardware Acquisitionist.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/91_Hardware Acquisitionist.png"
 			}
 		},
 		{
 			"name": "Shrouding Fog",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Creature â€” Wall ",
-			"collector_number": "45",
+			"mana_cost": "{2},{U}",
+			"type": "Creature — Wall",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/45_Shrouding Fog.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/50_Shrouding Fog.png"
 			}
 		},
 		{
 			"name": "Morgan Park Water Bloc",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Creature â€” Human Rebel ",
-			"collector_number": "40",
+			"type": "Creature — Human",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/40_Morgan Park Water Bloc.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/44_Morgan Park Water Bloc.png"
 			}
 		},
 		{
 			"name": "Punk House Martial Artist",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Creature â€” Human Warrior ",
-			"collector_number": "15",
+			"mana_cost": "{2},{W},{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/15_Punk House Martial Artist.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/17_Punk House Martial Artist.png"
 			}
 		},
 		{
 			"name": "Vanish Into The Crowd",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{2},{W}",
 			"type": "Instant",
-			"collector_number": "23",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/23_Vanish Into The Crowd.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/26_Vanish Into The Crowd.png"
 			}
 		},
 		{
 			"name": "Poet of Mourning",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Creature â€” Human Bard ",
-			"collector_number": "66",
+			"mana_cost": "{1},{B}",
+			"type": "Creature — Human Bard",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/66_Poet of Mourning.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/72_Poet of Mourning.png"
 			}
 		},
 		{
 			"name": "Afterparty Safety Crew",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{B}",
-			"type": "Creature â€” Human Warrior ",
-			"collector_number": "50",
+			"mana_cost": "{3},{B},{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/50_Afterparty Safety Crew.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/56_Afterparty Safety Crew.png"
 			}
 		},
 		{
 			"name": "Rusted Hatchback",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
-			"type": "Artifact â€” Vehicle ",
-			"collector_number": "155",
+			"type": "Artifact — Vehicle",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://https://raw.githubusercontent.com/againstpower/mse-hub/main/APW/sets/APW-files/img/155_Rusted Hatchback.png"
+				"en": "https://againstpower.github.io/sets/APW-files/img/170_Rusted Hatchback.png"
 			}
 		},
-		]
-	[UncommonSlot(2)]
-	9 Yutahne Plaza Occupation
-		9 Caluma Marsh Encampment
-		9 Great Sequoia Skycamp
-		9 Zine-Table Firebrand
-		9 Lens Busting
-		9 Pill-Pilferer
-		9 Moonlit Planting
-		9 Sabotage Trio
-		9 Distro Culinaire
-		9 Legal Defense Counsel
-		9 Resolute Ecologist
-		9 Wayward Station
-		9 Heavy U-Lock
-		9 Z-Rox Zine Machine
-		9 Queer Defiance
-		9 Nothing Left But One Another
-		9 Autonomous Mesh Network
-		9 Co-op Free Pile
-		9 Barricade Raisers
-		9 Toolshare Collective
-		9 3AM Lookout Shift
-		9 Resilient Care Team
-		9 Youth Uprising
-		9 Iron-Spike Arborists
-		9 Op-Sec Analyst
-		9 Ink-Aisle Bandit
-		9 Petrol Arsonist
-		9 Old Friends, New Names
-		9 Strategic Debrief
-		9 San Tavio Port Blockade
-		9 Morgan Park Autonomous Zone
-		9 Intertwined Struggles
-		9 At The Speed Of Trust
-		9 The May Day Book Fair
-		9 Enter the Black Snake
-		9 An Oasis For Migrants
-		9 Adler Street Mask Distro
-		9 Disappearing Messages
-		9 Adler Street Tenants Union
-		9 Covert Pill-Presser
-		9 Prepare for the Quake
-		9 Conflict Circle Facilitator
-		9 Rising Tide Arts Collective
-		9 Break Pavement For Gardens
-		9 Dumpster Diver
-		9 Imagine a Better World
-		9 Nourish the Neighborhood
-		9 Riot Dog
-		9 On-Call Jail Support
-		9 Tire Slasher
-		9 Livestock Liberator
-		9 Rent Strike
-		9 Yutahne Plaza Audio Tech
-		9 Info-Shop Cat
-		9 Converge on the Convention
-		9 Media Liason
-		9 Soil Remediation Chemist
-		9 Camo Bloc Fencebreakers
-		9 Morgan Park Eviction Defense
-		9 A Circle For Emotion
-		9 Skycamp Solar Array
-		9 Wildfire Midwife
-		9 Hardware Acquisitionist
-		9 Shrouding Fog
-		9 Morgan Park Water Bloc
-		9 Punk House Martial Artist
-		9 Vanish Into The Crowd
-		9 Poet of Mourning
-		9 Afterparty Safety Crew
-		9 Rusted Hatchback
-		[CommonSlot(10)]
-	30 Scout the Investors
-		30 Capture on Camera
-		30 The Torching of Carvhill Prison
-		30 Augustine Border Medicine Run
-		30 Evade the Authorities
-		30 Afterhours Intruder
-		30 Cautious Assembly
-		30 Bitter Assembly
-		30 Agitative Assembly
-		30 Steadfast Assembly
-		30 Bustling Avenue
-		30 Flooded Underpass
-		30 Crumbling Alley
-		30 Roaring Interstate
-		30 Overgrown Backroad
-		30 Decentralized Offensive
-		30 Scouting Bike
-		30 Kickflip
-		30 Switch to a Burner
-		30 In the Public Eye
-		30 New Years Noise Demo
-		30 Post-Convergence Partiers
-		30 Come to Consensus
-		30 Camp Rooster
-		30 Experienced Trespasser
-		30 Turnstile Dodger
-		30 Supply Drop
-		30 Angle-Grinder Rascal
-		30 Live Life To The Fullest
-		30 Advocate of the Jailed
-		30 Freight-Line Vagabond
-		30 Rooftop Gardener
-		30 Diversity of Tactics
-		30 Soup-Table Gossip
-		30 Squatters' Rebuke
-		30 Unvetted Punks
-		30 Unsaid Plans
-		30 Digital Arsonist
-		30 Bloc Attire
-		30 Kitchen Crew's Propane
-		30 Ashes of the Precinct
-		30 Carvhill Crane Lockdown
-		30 DIY Shield Crew
-		30 Postcards and Commissary
-		30 Escape Unidentified
-		30 Improvised Roadblock
-		30 Anti-Gentrifier Frontline
-		30 Bail-Fund Signatory
-		30 Rallying Chant-Leader
-		30 Roving Commune
-		30 Pump-Station Vandal
-		30 Pseudonymous Messenger
-		30 Street Medic
-		30 Climbing the Sequoias
-		30 Convergence Organizer
-		30 Return the Tear Gas
-		30 Sleepless Anticipation
-		30 Caluma Easement Trailblazer
-		30 Housing Team Forger
-		30 Statue Topplers
-		30 Unseal Delcolinas Cave
-		30 Salvaged Spokes Bike Distro
-		30 Morgan Park Cop Watch
-		30 Foraging Herbalist
-		30 Militant Assembly
-		30 Paint the Streets Defiant
-		30 Arms-Linked Obstinates
-		30 Threat Modeling
-		30 Interrupt Arrest
-		30 Supply Tent Coordinator
-		30 Foreclosed Townhouse
-		30 Banner Droppers
-		30 Aerial Videographer
-		30 Streetlamp Splicer
-		30 Refuse the Plea Deal
-		30 Database Breachers
-		30 Unlearn
-		30 Pre-Action Strategists
-		30 Delegitimize
-		30 Lockdown Legal Support
-		[WildcardSlot(2)]
-	10 Scout the Investors
-	10 Capture on Camera
-	10 The Torching of Carvhill Prison
-	10 Augustine Border Medicine Run
-	10 Yutahne Plaza Occupation
-	10 Caluma Marsh Encampment
-	10 Great Sequoia Skycamp
-	10 Evade the Authorities
-	10 Afterhours Intruder
-	10 Zine-Table Firebrand
-	10 Lens Busting
-	10 Pill-Pilferer
-	10 Moonlit Planting
-	10 Sabotage Trio
-	10 Cautious Assembly
-	10 Bitter Assembly
-	10 Agitative Assembly
-	10 Steadfast Assembly
-	10 Bustling Avenue
-	10 Distro Culinaire
-	10 Flooded Underpass
-	10 Crumbling Alley
-	10 Roaring Interstate
-	10 Overgrown Backroad
-	10 Decentralized Offensive
-	10 Scouting Bike
-	10 Kickflip
-	10 Switch to a Burner
-	10 In the Public Eye
-	10 New Years Noise Demo
-	10 Post-Convergence Partiers
-	10 Come to Consensus
-	10 Camp Rooster
-	10 Experienced Trespasser
-	10 Turnstile Dodger
-	10 Legal Defense Counsel
-	10 Resolute Ecologist
-	10 Wayward Station
-	10 Supply Drop
-	10 Angle-Grinder Rascal
-	10 Heavy U-Lock
-	10 Z-Rox Zine Machine
-	10 Queer Defiance
-	10 Live Life To The Fullest
-	10 Nothing Left But One Another
-	10 Advocate of the Jailed
-	10 Freight-Line Vagabond
-	10 Autonomous Mesh Network
-	10 Rooftop Gardener
-	10 Diversity of Tactics
-	10 Soup-Table Gossip
-	10 Squatters' Rebuke
-	10 Unvetted Punks
-	10 Unsaid Plans
-	10 Digital Arsonist
-	10 Bloc Attire
-	10 Kitchen Crew's Propane
-	10 Co-op Free Pile
-	10 Ashes of the Precinct
-	10 Carvhill Crane Lockdown
-	10 DIY Shield Crew
-	10 Barricade Raisers
-	10 Toolshare Collective
-	10 3AM Lookout Shift
-	10 Resilient Care Team
-	10 Youth Uprising
-	10 Iron-Spike Arborists
-	10 Op-Sec Analyst
-	10 Ink-Aisle Bandit
-	10 Petrol Arsonist
-	10 Postcards and Commissary
-	10 Escape Unidentified
-	10 Old Friends, New Names
-	10 Improvised Roadblock
-	10 Anti-Gentrifier Frontline
-	10 Strategic Debrief
-	10 Bail-Fund Signatory
-	10 Rallying Chant-Leader
-	10 San Tavio Port Blockade
-	10 Morgan Park Autonomous Zone
-	10 Roving Commune
-	10 Intertwined Struggles
-	10 Pump-Station Vandal
-	10 Pseudonymous Messenger
-	10 At The Speed Of Trust
-	10 Street Medic
-	10 Climbing the Sequoias
-	10 Convergence Organizer
-	10 Return the Tear Gas
-	10 Sleepless Anticipation
-	10 Caluma Easement Trailblazer
-	10 Housing Team Forger
-	10 Statue Topplers
-	10 Unseal Delcolinas Cave
-	10 Salvaged Spokes Bike Distro
-	10 Morgan Park Cop Watch
-	10 Foraging Herbalist
-	10 Militant Assembly
-	10 Paint the Streets Defiant
-	10 Arms-Linked Obstinates
-	10 Threat Modeling
-	10 Interrupt Arrest
-	10 Supply Tent Coordinator
-	10 Lex, Doctrine of One Truth
-	10 Annoto, Alienated Spectator
-	10 Adroganta, the Self Above All
-	10 Consona, Death of Culture
-	10 Caedes, the Bloodstained Gun
-	10 Argentia, the Rent Collector
-	10 Insigni, Pursuit of Fame
-	10 Cedere, Self-Hating Complicity
-	10 Patriar, Chains of the Family
-	10 Vastitas, Extraction of the Earth
-	10 Epistole, Faceless Judgement
-	10 Machina, Isolation by Design
-	10 Stirpi, Pure-Blooded Nation
-	10 Crescero, Myth of Utopia
-	10 Against Power
-	10 Foreclosed Townhouse
-	10 Banner Droppers
-	10 Aerial Videographer
-	10 Streetlamp Splicer
-	10 Refuse the Plea Deal
-	10 Database Breachers
-	10 Unlearn
-	10 The May Day Book Fair
-	10 Pre-Action Strategists
-	10 Delegitimize
-	10 Lockdown Legal Support
-	10 Enter the Black Snake
-	10 An Oasis For Migrants
-	10 Adler Street Mask Distro
-	10 Disappearing Messages
-	10 Adler Street Tenants Union
-	10 Covert Pill-Presser
-	10 Prepare for the Quake
-	10 Conflict Circle Facilitator
-	10 Rising Tide Arts Collective
-	10 Break Pavement For Gardens
-	10 Dumpster Diver
-	10 Imagine a Better World
-	10 Nourish the Neighborhood
-	10 Riot Dog
-	10 On-Call Jail Support
-	10 Tire Slasher
-	10 Livestock Liberator
-	10 Rent Strike
-	10 Yutahne Plaza Audio Tech
-	10 Info-Shop Cat
-	10 Converge on the Convention
-	10 Media Liason
-	10 Soil Remediation Chemist
-	10 Camo Bloc Fencebreakers
-	10 Morgan Park Eviction Defense
-	10 A Circle For Emotion
-	10 Skycamp Solar Array
-	10 Wildfire Midwife
-	10 Hardware Acquisitionist
-	10 Shrouding Fog
-	10 Morgan Park Water Bloc
-	10 Punk House Martial Artist
-	10 Vanish Into The Crowd
-	10 Poet of Mourning
-	10 Afterparty Safety Crew
-	10 Rusted Hatchback
-	
+		{
+			"name": "Scramble the Surveyors",
+			"rarity": "rare",
+			"mana_cost": "{2},{G}",
+			"type": "Battle — Mission",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/131_Scramble the Surveyors.png"
+			}
+		},
+		{
+			"name": "Morning Meeting",
+			"rarity": "rare",
+			"mana_cost": "{1},{G},{G}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/124_Morning Meeting.png"
+			}
+		},
+		{
+			"name": "Propaganda of the Deed",
+			"rarity": "rare",
+			"mana_cost": "{2},{W}",
+			"type": "Battle — Mission",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/16_Propaganda of the Deed.png"
+			}
+		},
+		{
+			"name": "Water Filtration Duo",
+			"rarity": "rare",
+			"mana_cost": "{2},{U}",
+			"type": "Creature — Human Druid Artificer",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/53_Water Filtration Duo.png"
+			}
+		},
+		{
+			"name": "Bail Fund Benefit Show",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/111_Bail Fund Benefit Show.png"
+			}
+		},
+		{
+			"name": "Risk-Wary Attendee",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/21_Risk-Wary Attendee.png"
+			}
+		},
+		{
+			"name": "The Liberation of Kent Hall",
+			"rarity": "rare",
+			"mana_cost": "{2},{R},{R}",
+			"type": "Battle — Barricade",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/92_The Liberation of Kent Hall.png"
+			}
+		},
+		{
+			"name": "Yutahne Plaza Info Shop",
+			"rarity": "rare",
+			"mana_cost": "{1},{B}",
+			"type": "Enchantment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/81_Yutahne Plaza Info Shop.png"
+			}
+		},
+		{
+			"name": "Under Cover of Darkness",
+			"rarity": "rare",
+			"mana_cost": "{3},{B}",
+			"type": "Enchantment",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/78_Under Cover of Darkness.png"
+			}
+		},
+		{
+			"name": "Squatter's Row Plumber",
+			"rarity": "rare",
+			"mana_cost": "{1},{B}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/76_Squatter's Row Plumber.png"
+			}
+		},
+		{
+			"name": "Shooting Range Mentor",
+			"rarity": "rare",
+			"mana_cost": "{2},{R}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/100_Shooting Range Mentor.png"
+			}
+		},
+		{
+			"name": "Childcare Collective",
+			"rarity": "rare",
+			"mana_cost": "{3},{W}",
+			"type": "Creature — Human",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/2_Childcare Collective.png"
+			}
+		},
+		{
+			"name": "Open-Source Archivist",
+			"rarity": "rare",
+			"mana_cost": "{2},{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/45_Open-Source Archivist.png"
+			}
+		},
+		{
+			"name": "Make Riotous Merry",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/94_Make Riotous Merry.png"
+			}
+		},
+		{
+			"name": "Freeing the Yutahne River",
+			"rarity": "rare",
+			"mana_cost": "{1},{U}",
+			"type": "Battle — Mission",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://againstpower.github.io/sets/APW-files/img/38_Freeing the Yutahne River.png"
+			}
+		},
+	]
+
+[rare(1)]
+	1 Lex, Doctrine of One Truth
+	1 Annoto, Alienated Spectator
+	1 Adroganta, the Self Above All
+	1 Consona, Death of Culture
+	1 Caedes, the Bloodstained Gun
+	1 Argentia, the Rent Collector
+	1 Insigni, Pursuit of Fame
+	1 Cedere, Self-Hating Complicity
+	1 Patriar, Chains of the Family
+	1 Vastitas, Extraction of the Earth
+	1 Epistole, Faceless Judgement
+	1 Machina, Isolation by Design
+	1 Stirpi, Pure-Blooded Nation
+	1 Crescero, Myth of Utopia
+	1 Against Power
+	2 Scramble the Surveyors
+	2 Morning Meeting
+	2 Propaganda of the Deed
+	2 Water Filtration Duo
+	2 Bail Fund Benefit Show
+	2 Risk-Wary Attendee
+	2 The Liberation of Kent Hall
+	2 Yutahne Plaza Info Shop
+	2 Under Cover of Darkness
+	2 Squatter's Row Plumber
+	2 Shooting Range Mentor
+	2 Childcare Collective
+	2 Open-Source Archivist
+	2 Make Riotous Merry
+	2 Freeing the Yutahne River
+[uncommon(4)]
+	4 Yutahne Plaza Occupation
+	4 Caluma Marsh Encampment
+	4 Great Sequoia Skycamp
+	4 Zine-Table Firebrand
+	4 Lens Busting
+	4 Pill-Pilferer
+	4 Moonlit Planting
+	4 Sabotage Trio
+	4 Distro Culinaire
+	4 Legal Defense Counsel
+	4 Resolute Ecologist
+	4 Wayward Station
+	4 Heavy U-Lock
+	4 Z-Rox Zine Machine
+	4 Queer Defiance
+	4 Nothing Left But One Another
+	4 Autonomous Mesh Network
+	4 Co-op Free Pile
+	4 Barricade Raisers
+	4 Toolshare Collective
+	4 3AM Lookout Shift
+	4 Resilient Care Team
+	4 Youth Uprising
+	4 Iron-Spike Arborists
+	4 Op-Sec Analyst
+	4 Ink-Aisle Bandit
+	4 Petrol Arsonist
+	4 Old Friends, New Names
+	4 Strategic Debrief
+	4 San Tavio Port Blockade
+	4 Morgan Park Autonomous Zone
+	4 Intertwined Struggles
+	4 At The Speed Of Trust
+	4 The May Day Book Fair
+	4 Enter the Black Snake
+	4 An Oasis For Migrants
+	4 Adler Street Mask Distro
+	4 Disappearing Messages
+	4 Adler Street Tenants Union
+	4 Covert Pill-Presser
+	4 Prepare for the Quake
+	4 Conflict Circle Facilitator
+	4 Rising Tide Arts Collective
+	4 Break Pavement For Gardens
+	4 Dumpster Diver
+	4 Imagine a Better World
+	4 Nourish the Neighborhood
+	4 Riot Dog
+	4 On-Call Jail Support
+	4 Tire Slasher
+	4 Livestock Liberator
+	4 Rent Strike
+	4 Yutahne Plaza Audio Tech
+	4 Info-Shop Cat
+	4 Converge on the Convention
+	4 Media Liason
+	4 Soil Remediation Chemist
+	4 Camo Bloc Fencebreakers
+	4 Morgan Park Eviction Defense
+	4 A Circle For Emotion
+	4 Skycamp Solar Array
+	4 Wildfire Midwife
+	4 Hardware Acquisitionist
+	4 Shrouding Fog
+	4 Morgan Park Water Bloc
+	4 Punk House Martial Artist
+	4 Vanish Into The Crowd
+	4 Poet of Mourning
+	4 Afterparty Safety Crew
+	4 Rusted Hatchback
+[common(7)]
+	8 Scout the Investors
+	8 Capture on Camera
+	8 The Torching of Carvhill Prison
+	8 Augustine Border Medicine Run
+	8 Evade the Authorities
+	8 Afterhours Intruder
+	8 Cautious Assembly
+	8 Bitter Assembly
+	8 Agitative Assembly
+	8 Steadfast Assembly
+	8 Bustling Avenue
+	8 Flooded Underpass
+	8 Crumbling Alley
+	8 Roaring Interstate
+	8 Overgrown Backroad
+	8 Decentralized Offensive
+	8 Scouting Bike
+	8 Kickflip
+	8 Switch to a Burner
+	8 In the Public Eye
+	8 New Years Noise Demo
+	8 Post-Convergence Partiers
+	8 Come to Consensus
+	8 Camp Rooster
+	8 Experienced Trespasser
+	8 Turnstile Dodger
+	8 Supply Drop
+	8 Angle-Grinder Rascal
+	8 Live Life To The Fullest
+	8 Advocate of the Jailed
+	8 Freight-Line Vagabond
+	8 Rooftop Gardener
+	8 Diversity of Tactics
+	8 Soup-Table Gossip
+	8 Squatters' Rebuke
+	8 Unvetted Punks
+	8 Unsaid Plans
+	8 Digital Arsonist
+	8 Bloc Attire
+	8 Kitchen Crew's Propane
+	8 Ashes of the Precinct
+	8 Carvhill Crane Lockdown
+	8 DIY Shield Crew
+	8 Postcards and Commissary
+	8 Escape Unidentified
+	8 Improvised Roadblock
+	8 Anti-Gentrifier Frontline
+	8 Bail-Fund Signatory
+	8 Rallying Chant-Leader
+	8 Roving Commune
+	8 Pump-Station Vandal
+	8 Pseudonymous Messenger
+	8 Street Medic
+	8 Climbing the Sequoias
+	8 Convergence Organizer
+	8 Return the Tear Gas
+	8 Sleepless Anticipation
+	8 Caluma Easement Trailblazer
+	8 Housing Team Forger
+	8 Statue Topplers
+	8 Unseal Delcolinas Cave
+	8 Salvaged Spokes Bike Distro
+	8 Morgan Park Cop Watch
+	8 Foraging Herbalist
+	8 Militant Assembly
+	8 Paint the Streets Defiant
+	8 Arms-Linked Obstinates
+	8 Threat Modeling
+	8 Interrupt Arrest
+	8 Supply Tent Coordinator
+	8 Foreclosed Townhouse
+	8 Banner Droppers
+	8 Aerial Videographer
+	8 Streetlamp Splicer
+	8 Refuse the Plea Deal
+	8 Database Breachers
+	8 Unlearn
+	8 Pre-Action Strategists
+	8 Delegitimize
+	8 Lockdown Legal Support
+[wildcard(2)]
+	6 Scout the Investors
+	6 Capture on Camera
+	6 The Torching of Carvhill Prison
+	6 Augustine Border Medicine Run
+	15 Yutahne Plaza Occupation
+	15 Caluma Marsh Encampment
+	15 Great Sequoia Skycamp
+	6 Evade the Authorities
+	6 Afterhours Intruder
+	15 Zine-Table Firebrand
+	15 Lens Busting
+	15 Pill-Pilferer
+	15 Moonlit Planting
+	15 Sabotage Trio
+	6 Cautious Assembly
+	6 Bitter Assembly
+	6 Agitative Assembly
+	6 Steadfast Assembly
+	6 Bustling Avenue
+	15 Distro Culinaire
+	6 Flooded Underpass
+	6 Crumbling Alley
+	6 Roaring Interstate
+	6 Overgrown Backroad
+	6 Decentralized Offensive
+	6 Scouting Bike
+	6 Kickflip
+	6 Switch to a Burner
+	6 In the Public Eye
+	6 New Years Noise Demo
+	6 Post-Convergence Partiers
+	6 Come to Consensus
+	6 Camp Rooster
+	6 Experienced Trespasser
+	6 Turnstile Dodger
+	15 Legal Defense Counsel
+	15 Resolute Ecologist
+	15 Wayward Station
+	6 Supply Drop
+	6 Angle-Grinder Rascal
+	15 Heavy U-Lock
+	15 Z-Rox Zine Machine
+	15 Queer Defiance
+	6 Live Life To The Fullest
+	15 Nothing Left But One Another
+	6 Advocate of the Jailed
+	6 Freight-Line Vagabond
+	15 Autonomous Mesh Network
+	6 Rooftop Gardener
+	6 Diversity of Tactics
+	6 Soup-Table Gossip
+	6 Squatters' Rebuke
+	6 Unvetted Punks
+	6 Unsaid Plans
+	6 Digital Arsonist
+	6 Bloc Attire
+	6 Kitchen Crew's Propane
+	15 Co-op Free Pile
+	6 Ashes of the Precinct
+	6 Carvhill Crane Lockdown
+	6 DIY Shield Crew
+	15 Barricade Raisers
+	15 Toolshare Collective
+	15 3AM Lookout Shift
+	15 Resilient Care Team
+	15 Youth Uprising
+	15 Iron-Spike Arborists
+	15 Op-Sec Analyst
+	15 Ink-Aisle Bandit
+	15 Petrol Arsonist
+	6 Postcards and Commissary
+	6 Escape Unidentified
+	15 Old Friends, New Names
+	6 Improvised Roadblock
+	6 Anti-Gentrifier Frontline
+	15 Strategic Debrief
+	6 Bail-Fund Signatory
+	6 Rallying Chant-Leader
+	15 San Tavio Port Blockade
+	15 Morgan Park Autonomous Zone
+	6 Roving Commune
+	15 Intertwined Struggles
+	6 Pump-Station Vandal
+	6 Pseudonymous Messenger
+	15 At The Speed Of Trust
+	6 Street Medic
+	6 Climbing the Sequoias
+	6 Convergence Organizer
+	6 Return the Tear Gas
+	6 Sleepless Anticipation
+	6 Caluma Easement Trailblazer
+	6 Housing Team Forger
+	6 Statue Topplers
+	6 Unseal Delcolinas Cave
+	6 Salvaged Spokes Bike Distro
+	6 Morgan Park Cop Watch
+	6 Foraging Herbalist
+	6 Militant Assembly
+	6 Paint the Streets Defiant
+	6 Arms-Linked Obstinates
+	6 Threat Modeling
+	6 Interrupt Arrest
+	6 Supply Tent Coordinator
+	4 Lex, Doctrine of One Truth
+	4 Annoto, Alienated Spectator
+	4 Adroganta, the Self Above All
+	4 Consona, Death of Culture
+	4 Caedes, the Bloodstained Gun
+	4 Argentia, the Rent Collector
+	4 Insigni, Pursuit of Fame
+	4 Cedere, Self-Hating Complicity
+	4 Patriar, Chains of the Family
+	4 Vastitas, Extraction of the Earth
+	4 Epistole, Faceless Judgement
+	4 Machina, Isolation by Design
+	4 Stirpi, Pure-Blooded Nation
+	4 Crescero, Myth of Utopia
+	4 Against Power
+	6 Foreclosed Townhouse
+	6 Banner Droppers
+	6 Aerial Videographer
+	6 Streetlamp Splicer
+	6 Refuse the Plea Deal
+	6 Database Breachers
+	6 Unlearn
+	15 The May Day Book Fair
+	6 Pre-Action Strategists
+	6 Delegitimize
+	6 Lockdown Legal Support
+	15 Enter the Black Snake
+	15 An Oasis For Migrants
+	15 Adler Street Mask Distro
+	15 Disappearing Messages
+	15 Adler Street Tenants Union
+	15 Covert Pill-Presser
+	15 Prepare for the Quake
+	15 Conflict Circle Facilitator
+	15 Rising Tide Arts Collective
+	15 Break Pavement For Gardens
+	15 Dumpster Diver
+	15 Imagine a Better World
+	15 Nourish the Neighborhood
+	15 Riot Dog
+	15 On-Call Jail Support
+	15 Tire Slasher
+	15 Livestock Liberator
+	15 Rent Strike
+	15 Yutahne Plaza Audio Tech
+	15 Info-Shop Cat
+	15 Converge on the Convention
+	15 Media Liason
+	15 Soil Remediation Chemist
+	15 Camo Bloc Fencebreakers
+	15 Morgan Park Eviction Defense
+	15 A Circle For Emotion
+	15 Skycamp Solar Array
+	15 Wildfire Midwife
+	15 Hardware Acquisitionist
+	15 Shrouding Fog
+	15 Morgan Park Water Bloc
+	15 Punk House Martial Artist
+	15 Vanish Into The Crowd
+	15 Poet of Mourning
+	15 Afterparty Safety Crew
+	15 Rusted Hatchback
+	7 Scramble the Surveyors
+	7 Morning Meeting
+	7 Propaganda of the Deed
+	7 Water Filtration Duo
+	7 Bail Fund Benefit Show
+	7 Risk-Wary Attendee
+	7 The Liberation of Kent Hall
+	7 Yutahne Plaza Info Shop
+	7 Under Cover of Darkness
+	7 Squatter's Row Plumber
+	7 Shooting Range Mentor
+	7 Childcare Collective
+	7 Open-Source Archivist
+	7 Make Riotous Merry
+	7 Freeing the Yutahne River
